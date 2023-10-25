@@ -1,0 +1,1582 @@
+,name,operator,Latitude,Longitude
+0,"Luzern, Kantonalbank",VBL,47.0486685,8.3060176
+1,"Luzern, Pilatusplatz",PAG,47.0472663,8.3040542
+2,"Inwil, Pannerhof",VBL,47.1219706,8.3469653
+3,"Ballwil, Hochdorfstrasse",PAG,47.1530943,8.3170463
+4,"Gelfingen, Kreisel",BSF,47.2141944,8.2654166
+5,"Horw, Spier",VBL,47.0112217,8.3056045
+6,"Horw, Zentrum",VBL,47.0185281,8.3105503
+7,"Luzern, Kasernenplatz",PAG,47.0517242,8.3002229
+8,"Emmenbrücke, Geisselermoos",PAG,47.0892722,8.2273364
+9,"Altishofen, Bäckerei",PAG,47.1965264,7.9681912
+10,"Emmen, Flugzeugwerke",AAGR,47.0865163,8.3095929
+11,"Horw, Buholz",VBL,47.0193560,8.3285104
+12,"Horw, Felmis",VBL,47.0209928,8.3261646
+13,"Luzern, Giseli",VBL,47.0536200,8.3446344
+14,"Ebikon, Schmiedhof",VBL,47.0769083,8.3331106
+15,"Ebikon, Mühlegg",VBL,47.0727431,8.3351856
+16,"Ebikon, Schlössli",Postauto Schweiz AG (PAG),47.0712122,8.3354874
+17,"Adligenswil, Stuben",VBL,47.0724092,8.3497755
+18,"Adligenswil, Dorf",VBL,47.0705317,8.3641704
+19,"Adligenswil, Luegisland",VBL,47.0635361,8.3563198
+20,"Alberswil, Unterdorf",PAG,47.1556798,8.0011703
+21,"Schongau, Erlebnispark",ZVB,47.2685294,8.2703342
+22,"Schüpfheim, Bahnhof",PAG,46.9499865,8.0145362
+23,"Schüpfheim, Wegmattensäge",PAG,46.9364749,8.0085814
+24,"Schüpfheim, Wegmattensäge",PAG,46.9350500,8.0100601
+25,"Flühli LU, Usser-Lamm",PAG,46.9160964,8.0130895
+26,"Flühli LU, Krutacher",PAG,46.9084488,8.0154663
+27,"Flühli LU, Matzenbach",PAG,46.8930725,8.0148381
+28,"Sörenberg, Hirsegg",PAG,46.8387691,8.0123753
+29,"Kleinwangen, Post",ZVB,47.1958065,8.2959014
+30,"Kleinwangen, Schmiede",ZVB,47.1941947,8.2936241
+31,"Kleinwangen, Schmiede",ZVB,47.1948724,8.2939791
+32,"Neudorf, Gormund",AAGR,47.1610674,8.2203274
+33,"Neudorf, Dorf",AAGR,47.1766380,8.2090666
+34,"Neudorf, Post",AAGR,47.1799269,8.2091815
+35,"Beromünster, Flugplatz",AAGR,47.1913252,8.2060015
+36,"Beromünster, Mooskapelle",AAGR,47.2044657,8.2003508
+37,"Horw, Kirchweg",VBL,47.0209882,8.3107212
+38,"Horw, Zentrum",VBL,47.0192177,8.3114907
+39,"Horw, Wegscheide",VBL,47.0229078,8.3089708
+40,"Sempach Stadt, Post",PAG,47.1345642,8.1918827
+41,"Horw, Steinen",VBL,47.0156090,8.3027374
+42,"Kriens, Rosenstrasse",VBL,47.0242323,8.3020796
+43,"Kriens, Kuonimatt",VBL,47.0225726,8.3031763
+44,"Horw, Bahnhof",VBL,47.0183253,8.3076236
+45,"Luzern, Pilatusplatz",PAG,47.0481318,8.3047261
+46,"Kriens, Nidfeld",VBL,47.0300857,8.2966217
+47,"Altishofen, Unterdorf",PAG,47.2019900,7.9670699
+48,"Römerswil LU, Williswil",ZVB,47.1559716,8.2519877
+49,"Hochdorf, Sempachstrasse",ZVB,47.1656436,8.2887747
+50,"Buchs LU, Wendeplatz",PAG,47.2017731,8.0335744
+51,"Buchs LU, Eintracht",PAG,47.2056101,8.0411088
+52,"Hohenrain, Landschau",ZVB,47.1805641,8.3148458
+53,"Kottwil, Dorf",ARAG,47.1618842,8.0448775
+54,"Wolhusen, Kreisel",ARAG,47.0592672,8.0732938
+55,"Kriens, Busschleife",VBL,47.0341942,8.2772036
+56,"Ruswil, Neumüli",ARAG,47.0785342,8.1348379
+57,"Ruswil, Neumüli",ARAG,47.0781095,8.1359206
+58,"Luzern, Tiefe",VBL,47.0409845,8.3131786
+59,"Nottwil, Oberdorf",ARAG,47.1321355,8.1378147
+60,"Nottwil, Abzw. Bahnhof",ARAG,47.1361021,8.1350947
+61,"Grosswangen, Post",ARAG,47.1337892,8.0480773
+62,"Rain, Sandblatten",AAGR,47.1261989,8.2436886
+63,"Rain, Sandblatten",AAGR,47.1263260,8.2436001
+64,"Rothenburg, Wegscheiden",AAGR,47.1097835,8.2565889
+65,"Rothenburg, Bertiswil",AAGR,47.1014779,8.2648141
+66,"Rothenburg, Eschenbachstrasse",AAGR,47.0976661,8.2711252
+67,"Mauensee, Breiten",ARAG,47.1659410,8.0811393
+68,"Mauensee, Dorf",ARAG,47.1677549,8.0654194
+69,"Ruswil, Rebstockstrasse",ARAG,47.0826088,8.1225057
+70,"Ruswil, Althus",ARAG,47.0703545,8.1027816
+71,"Emmenbrücke, Sportplatz",AAGR,47.0806248,8.2819110
+72,"Emmen, Kasernenstrasse",Auto AG Rothenburg (AAGR),47.0854490,8.2906016
+73,"Emmen, Kasernenstrasse",AAGR,47.0851802,8.2901353
+74,"Willisau, Postplatz",PAG,47.1211362,7.9925483
+75,"Willisau, Bahnhof",PAG,47.1222762,7.9970804
+76,"Willisau, Chrüzhof",PAG,47.1240119,7.9948134
+77,"Buchrain, Sagenwald",ARAG,47.1066929,8.3436920
+78,"Langnau bei Reiden, Oberdorf",AVA,47.2284117,7.9627202
+79,"Sursee, Bahnhof",PAG,47.1700926,8.0987086
+80,"Meggen, Obermattstrasse",VBL,47.0571185,8.3835408
+81,"Gunzwil, Dorf",PAG,47.2112285,8.1794957
+82,"Grosswangen, Schutz",ARAG,47.1352644,8.0411324
+83,"Meggen, Klösterli",VBL,47.0491732,8.3690558
+84,"Meggen, Piuskirche",VBL,47.0468391,8.3716964
+85,"Meggen, Piuskirche",VBL,47.0460251,8.3722273
+86,"Luzern, Casino-Palace",VBL,47.0553242,8.3184687
+87,Brittnau-Wikon,SBB,47.2616893,7.9577903
+88,"Luzern, Utenberg",PAG,47.0607690,8.3241766
+89,"Luzern, Utenberg",PAG,47.0601833,8.3238923
+90,"Luzern, Löwenplatz",VBL,47.0567690,8.3108233
+91,"Luzern, Steinhofrain",VBL,47.0415457,8.2958219
+92,"Horw, Felmis",VBL,47.0213600,8.3248388
+93,"Root, Dorf",VBL,47.1128206,8.3880022
+94,"Luzern, Kasernenplatz",PAG,47.0515590,8.3000053
+95,"Luzern, Kasernenplatz",PAG,47.0520430,8.3001450
+96,"Emmenbrücke, Hübeli",AAGR,47.0867961,8.2755155
+97,"Sursee, Spital",PAG,47.1689192,8.1178125
+98,Käppelimatt b. Willisau,PAG,47.1167560,7.9751935
+99,"Menznau, Tanzeren",PAG,47.0771962,8.0382984
+100,"Menznau, Untertreien",PAG,47.0733810,8.0396403
+101,"Menznau, Twerenegg",PAG,47.0665985,8.0130303
+102,"Ettiswil, Post",PAG,47.1479209,8.0181217
+103,"Emmenbrücke Kapf, Bahnhof",AAGR,47.0914336,8.2735948
+104,"Meierskappel, Dorfplatz",PAG,47.1246713,8.4432656
+105,"Kriens, Bachstrasse",VBL,47.0291385,8.2761633
+106,"Ebikon, Halte",VBL,47.0869615,8.3444499
+107,"Buchrain, Kirchbreite",VBL,47.0940653,8.3512723
+108,Stächenrain,ARAG,47.0767899,8.2241397
+109,"Emmenbrücke, Lohrensäge",PAG,47.0819522,8.2525589
+110,"Ruswil, Rottalcenter",ARAG,47.0825408,8.1275459
+111,"Perlen, Holzplatz",VBL,47.1150835,8.3768863
+112,"Emmen, Flugzeugwerke",Auto AG Rothenburg (AAGR),47.0856536,8.3093997
+113,"Kriens, Josef Schryberstrasse",VBL,47.0310554,8.2724158
+114,"Sempach Station, Mettenwilstr.",PAG,47.1163751,8.1994112
+115,"Sempach Station, Seefeld",PAG,47.1174303,8.1993478
+116,"Willisau, Geissburg",PAG,47.1165696,7.9863412
+117,"Willisau, Schlossfeld",PAG,47.1165310,7.9904571
+118,"Schwarzenberg LU, Ennenmatt",PAG,47.0172163,8.1733363
+119,"Büron, Dorf",PAG,47.2133541,8.0948226
+120,Käppelimatt b. Willisau,PAG,47.1175788,7.9765586
+121,"Menznau, Höhe",PAG,47.0643248,8.0302560
+122,"Hellbühl, Unter Hellbühl",ARAG,47.0714913,8.2011458
+123,"Ebikon, Ottigenbühl",Verkehrsbetriebe Luzern AG (VBL),47.0883164,8.3587960
+124,"Büron, Eichenmoos",PAG,47.2060215,8.1010813
+125,"Büron, Eichenmoos",PAG,47.2067727,8.1001916
+126,"Luzern, Würzenbach",VBL,47.0563664,8.3496764
+127,"Luzern, Hubelmatt",VBL,47.0364881,8.3081473
+128,"Root D4, Oberfeld",VBL,47.1031569,8.3760157
+129,"Root D4, Bahnhof",AAGS,47.1045595,8.3737228
+130,"Root, Ronmatt",VBL,47.1097054,8.3842994
+131,"Root, Dorf",VBL,47.1129921,8.3881767
+132,"Root, Wilweg",VBL,47.1157320,8.3905502
+133,"Root, Schlosshof",VBL,47.1179170,8.3922061
+134,"Gisikon-Root, Bahnhof",VBL,47.1213949,8.3950479
+135,"Hellbühl, Post",ARAG,47.0704971,8.1969259
+136,"Littau, Matt",VBL,47.0510239,8.2654222
+137,"Kastanienbaum, Schiffstation",VBL,47.0081403,8.3400543
+138,"Kastanienbaum, Schiffstation",VBL,47.0082621,8.3400820
+139,"Kastanienbaum, Dorni",VBL,47.0090411,8.3367818
+140,"Kastanienbaum, Dorni",VBL,47.0086625,8.3370774
+141,"Horw, Stegen/Kirchfeld",VBL,47.0219455,8.3216733
+142,"Horw, Stegen/Kirchfeld",VBL,47.0220421,8.3204077
+143,"Luzern, Kantonalbank",VBL,47.0490383,8.3064822
+144,"Luzern, Kantonalbank",VBL,47.0486814,8.3064039
+145,"Luzern, Bundesplatz",VBL,47.0461278,8.3086226
+146,"Schongau, Erlebnispark",ZVB,47.2685606,8.2712570
+147,"Schongau, Kreuz",ZVB,47.2676136,8.2633475
+148,"Schongau, Kreuz",ZVB,47.2677510,8.2636526
+149,"Schongau, Landi",ZVB,47.2675998,8.2608823
+150,"St. Urban, Birchmatt",AVA,47.2273714,7.8401810
+151,"Luzern, Werkhofstrasse",VBL,47.0431682,8.3145413
+152,"Luzern, Werkhofstrasse",VBL,47.0435474,8.3132029
+153,"Luzern, Wartegg",VBL,47.0400777,8.3222623
+154,"Luzern, Wartegg",VBL,47.0395829,8.3220005
+155,"Luzern, Wartegg",VBL,47.0394189,8.3229797
+156,"Luzern, Matthof",VBL,47.0351493,8.3306794
+157,"Reussbühl, Frohburg",AAGR,47.0658944,8.2818459
+158,"Emmen, Rüeggisingen",AAGR,47.0818363,8.2842356
+159,"Emmen, Abendweg",Auto AG Rothenburg (AAGR),47.0837144,8.2866338
+160,"Emmen, Abendweg",AAGR,47.0841217,8.2875848
+161,"Entlebuch, Marktplatz",PAG,46.9916316,8.0654918
+162,"Hasle LU, Sandboden",PAG,46.9602820,8.0528319
+163,"St. Erhard, Wiberg",PAG,47.1845797,8.0720950
+164,"St. Erhard, Dorf",PAG,47.1828766,8.0748335
+165,"St. Erhard, Dorf",PAG,47.1829344,8.0741710
+166,"Knutwil, Dorf",PAG,47.1990959,8.0724162
+167,"Knutwil, alte Post",PAG,47.1969639,8.0743113
+168,"Kriens, Busschleife",VBL,47.0340773,8.2772923
+169,"Kriens, Busschleife",VBL,47.0340530,8.2773545
+170,"Kriens, Pulvermühle",VBL,47.0338949,8.2702670
+171,"Kriens, Grosshofstrasse",VBL,47.0387296,8.2977334
+172,"Luzern, Paulusplatz",VBL,47.0434796,8.3036030
+173,"Luzern, Bahnhof",VBL,47.0508084,8.3094697
+174,"Luzern, Bahnhof",VBL,47.0509195,8.3097081
+175,"Luzern, Bahnhof",VBL,47.0506359,8.3099024
+176,"Luzern, Bahnhof",VBL,47.0509494,8.3099659
+177,"Luzern, Bahnhof",VBL,47.0506648,8.3107039
+178,"Luzern, Bahnhof",VBL,47.0506660,8.3108821
+179,"Luzern, Bahnhof",VBL,47.0506654,8.3107930
+180,"Luzern, Bahnhof",VBL,47.0506672,8.3110603
+181,"Luzern, Bahnhof",VBL,47.0506666,8.3109712
+182,"Luzern, Bahnhof",VBL,47.0509839,8.3104748
+183,"Luzern, Bahnhof",VBL,47.0509891,8.3105796
+184,"Luzern, Bahnhof",VBL,47.0509943,8.3106844
+185,"Luzern, Bahnhof",VBL,47.0510048,8.3108941
+186,"Luzern, Bahnhof",VBL,47.0509996,8.3107893
+187,"Meggen, Lerchenbühl",VBL,47.0416240,8.3596259
+188,"Meggen, Rosenhalde",VBL,47.0435875,8.3627887
+189,"Meggen, Schlössli",VBL,47.0459365,8.3727328
+190,"Meggen, Schlössli",VBL,47.0457203,8.3719963
+191,"Meggen, Kapelle",VBL,47.0467523,8.3750994
+192,"Meggen, Huob",VBL,47.0495456,8.3798504
+193,"Meggen, Huob",VBL,47.0497795,8.3802310
+194,"Meggen, Kreuz",VBL,47.0515281,8.3834685
+195,"Meggen, Kreuz",VBL,47.0509266,8.3822078
+196,"Meggen, Gottlieben",VBL,47.0553458,8.3913948
+197,"Meggen, Böschenacher",VBL,47.0537118,8.3841080
+198,"Meggen, Tschädigen",VBL,47.0619251,8.3858214
+199,"Reussbühl, Fluhmühle",VBL,47.0585557,8.2861899
+200,"Luzern, Brüelstrasse",VBL,47.0541733,8.3399571
+201,"Luzern, Unterlöchli",VBL,47.0676670,8.3237633
+202,"Schenkon, Zellburg",PAG,47.1775406,8.1270153
+203,"Buttisholz, Dorf",ARAG,47.1142920,8.0939606
+204,"Schenkon, Zellfeld",PAG,47.1784176,8.1292572
+205,"Ettiswil, Schloss Wyher",ARAG,47.1431037,8.0253026
+206,"Eich, Dorf",PAG,47.1506988,8.1680386
+207,"Buttisholz, Allmend",ARAG,47.1162931,8.0806995
+208,"Grosswangen, Rot",ARAG,47.1235726,8.0658735
+209,"Grosswangen, Ed. Huber-Strasse",ARAG,47.1316484,8.0529601
+210,"Kottwil, Zuswil",ARAG,47.1543591,8.0348317
+211,"Buttisholz, Fürti",ARAG,47.1194771,8.1043860
+212,"Buttisholz, Gattwil",ARAG,47.1266282,8.1125125
+213,"Nottwil, Büel",ARAG,47.1341442,8.1191284
+214,"Nottwil, Rüteli",ARAG,47.1355534,8.1291998
+215,"Oberkirch LU, Länggasse",ARAG,47.1521329,8.1155548
+216,"Oberkirch LU, Dorf",ARAG,47.1569862,8.1154146
+217,"Oberkirch LU, Zum gold. Wagen",ARAG,47.1608627,8.1153517
+218,"Oberkirch LU, Feldhöfli",ARAG,47.1652034,8.1141806
+219,"Sursee, Spital Fussweg",ARAG,47.1684491,8.1138107
+220,Sempach Station,PAG,47.1162590,8.1951287
+221,"Inwil, Dorf",ARAG,47.1227397,8.3504167
+222,"Buchrain, Ronstrasse",VBL,47.0915731,8.3519190
+223,"Buchrain, Kirchbreite",VBL,47.0936233,8.3514694
+224,"Buchrain, Dorf",Verkehrsbetriebe Luzern (VBL),47.0951335,8.3482241
+225,Chappelbodenbrücke,PAG,47.0301769,8.0675531
+226,Chappelbodenbrücke,PAG,47.0303600,8.0677429
+227,"Reiden, Mehlsecken",AVA,47.2455482,7.9591634
+228,"Geuensee, Ausserdorf",PAG,47.1955005,8.1109185
+229,"Triengen, Grund",PAG,47.2301488,8.0813063
+230,"Geuensee, Chäppelimatt",PAG,47.1981916,8.1086035
+231,"Triengen, Dorf",PAG,47.2327208,8.0781906
+232,"Luzern, Obergütsch",VBL,47.0440747,8.2883351
+233,"Luzern, Gütschwald",VBL,47.0478949,8.2953078
+234,"Luzern, Gigeliwald",VBL,47.0464393,8.2927888
+235,"Honau, Hirschen",PAG,47.1330679,8.4059940
+236,"Ebikon, Schindler",VBL,47.0888045,8.3529058
+237,"Dierikon, Migros",VBL,47.0961292,8.3649597
+238,"Wolhusen, Berghofstrasse",ARAG,47.0632072,8.0727747
+239,"Pfaffnau, Sagen",PAG,47.2339238,7.8930438
+240,"Reiden, Sonne",AVA,47.2481056,7.9710523
+241,"Brittnau-Wikon, Bahnhof",AVA,47.2614747,7.9577119
+242,"Reiden, Bahnhof",AVA,47.2414412,7.9690296
+243,"Wikon, Schlossberg",AVA,47.2623202,7.9706983
+244,"Wikon, Hotel Adelboden",AVA,47.2680742,7.9622515
+245,"Reiden, Unterdorf",AVA,47.2522487,7.9698975
+246,"Wikon, Kreuzung",AVA,47.2636059,7.9649351
+247,"Roggliswil, Netzelen",AVA,47.2094214,7.8821834
+248,"Roggliswil, Niederwil",AVA,47.2146409,7.8885683
+249,"Egolzwil, Gemeindehaus",PAG,47.1847209,8.0077265
+250,"Hofstatt, Schachen",PAG,47.0987828,7.9180455
+251,"Ufhusen, Ruefswil",PAG,47.1108598,7.9199973
+252,"Hofstatt, Rüediswil",PAG,47.0882579,7.9129354
+253,"Hofstatt, Gyrstock",PAG,47.0931214,7.9128398
+254,"Luthern, Wieden",PAG,47.0682655,7.9185745
+255,"Hofstatt, Grünenboden",PAG,47.0776038,7.9178664
+256,"Nebikon, Bahnhof",PAG,47.1930019,7.9770475
+257,"Luthern Bad, Chrutzi",PAG,47.0387414,7.9258007
+258,"Nebikon, Käserei",PAG,47.1887173,7.9756006
+259,"Schötz, Gläng",PAG,47.1747030,7.9689799
+260,"Schötz, Feld",PAG,47.1707293,7.9749579
+261,"Ebersecken, Unterdorf",PAG,47.1812269,7.9352202
+262,"Zell LU, Bahnhof",PAG,47.1366281,7.9263955
+263,"Fischbach LU, Leimbütz",PAG,47.1489025,7.9110602
+264,"Fischbach LU, alte Post",PAG,47.1526024,7.9093180
+265,"Fischbach LU, Krone",PAG,47.1571143,7.9071762
+266,"Fischbach LU, Reiferswil",PAG,47.1627279,7.9013291
+267,"Grossdietwil, Post",PAG,47.1710608,7.8864158
+268,"Grossdietwil, Sandgruebe",PAG,47.1740739,7.8837495
+269,"Altbüron, Hiltbrunnen",PAG,47.1787088,7.8821556
+270,"Altbüron, Post",PAG,47.1811542,7.8794294
+271,"Hüswil, Bahnhof",PAG,47.1285660,7.9060560
+272,"Ufhusen, Käserei Dorf",PAG,47.1169508,7.8966446
+273,"Romoos, Holzwäge",PAG,47.0079826,7.9964815
+274,"Bramboden, Kirchplatz",PAG,46.9792313,7.9847846
+275,"Bramboden, Seebli/Luogmoos",PAG,46.9815113,7.9899735
+276,"Menzberg, Hasenrank",PAG,47.0454378,7.9933458
+277,"Menzberg, Gutenegg",PAG,47.0494710,7.9956169
+278,"Menzberg, Oberlehn/Napf",PAG,47.0403406,7.9925581
+279,"Menzberg, Buchensäge",PAG,47.0562910,7.9985511
+280,"Menzberg, Buchen",PAG,47.0600204,7.9986510
+281,"Schötz, Moosbrücke",PAG,47.1670849,7.9942800
+282,"Hergiswil LU, Luegental",PAG,47.0753441,7.9521060
+283,"Hübeli LU, Hintersagi",PAG,47.0643238,7.9530532
+284,"Hübeli LU, Sagematt",PAG,47.0583285,7.9523391
+285,"Willisau, Feldmatt-Kapelle",PAG,47.1027727,7.9630446
+286,"Hergiswil LU, Untere Schmiede",PAG,47.0881059,7.9598426
+287,"Hergiswil LU, Dorf",PAG,47.0847998,7.9570945
+288,"Willisau, Feld",PAG,47.1111713,7.9707920
+289,"Willisau, Breiten",PAG,47.1059622,7.9638261
+290,"Hüswil, Stoos",PAG,47.1236840,7.9098559
+291,"Hergiswil LU, Vordere Säge",PAG,47.0830264,7.9561248
+292,"Roggliswil, Unterfeld",SBB Auto,47.2177088,7.8887431
+293,"Nebikon, Maschinenfabrik",PAG,47.1835124,7.9802349
+294,"Richenthal, Post",AVA,47.2155578,7.9428553
+295,"Menzberg, Dorfplatz",PAG,47.0405531,7.9975133
+296,"Dagmersellen, Industriepark",PAG,47.2070852,7.9771716
+297,"Hofstatt, Dorf",PAG,47.0844479,7.9154443
+298,"Luthern, Dorf",PAG,47.0603853,7.9165121
+299,"Ufhusen, Zollhus",GHU,47.1144840,7.8800400
+300,"Pfaffnau, Steinacher",AVA,47.2241234,7.8929160
+301,"Marbach LU, Schufelbühl",PAG,46.8698789,7.9102150
+302,"Escholzmatt, Bahnhof",PAG,46.9152114,7.9362077
+303,"Wiggen, Wittenmoos",PAG,46.8875377,7.9121141
+304,"Marbach LU, Laui",PAG,46.8428762,7.8866019
+305,"Marbach LU, Geissenmoos",PAG,46.8655634,7.9059888
+306,"Wiggen, Schächli",PAG,46.8792386,7.9125274
+307,"Marbach LU, Mösli",PAG,46.8455788,7.8905245
+308,"Marbach LU, Dorf",PAG,46.8533944,7.8994919
+309,"Marbach LU, Untergasse",PAG,46.8396213,7.8816597
+310,"Marbach LU, Post",PAG,46.8565669,7.9003541
+311,"Marbach LU, Ey",PAG,46.8634424,7.9030034
+312,"Wiggen, Hilfernstrasse",PAG,46.8826930,7.9150445
+313,"Marbach LU, Neugaden",PAG,46.8728763,7.9102813
+314,"Escholzmatt, Riedgasse",PAG,46.9073125,7.9311068
+315,"Wiggen, Unterbach",PAG,46.9000354,7.9207536
+316,"Hasle LU, Farbschachen",PAG,46.9842627,8.0594896
+317,"Finsterwald LU, Erlengraben",PAG,46.9771795,8.0846265
+318,"Entlebuch, Unteregg",PAG,46.9805342,8.0748061
+319,"Entlebuch, Spüelen",PAG,46.9829506,8.0687785
+320,"Entlebuch, Drei Könige",PAG,46.9936707,8.0650572
+321,"Finsterwald LU, Schwändeli",PAG,46.9618406,8.1219088
+322,"Finsterwald LU, Lippern",PAG,46.9684001,8.1045344
+323,"Finsterwald LU, Kirche",PAG,46.9731536,8.1030778
+324,"Finsterwald LU, Chilenwald",PAG,46.9742995,8.0939043
+325,"Entlebuch, Bahnhof",PAG,46.9936833,8.0625797
+326,"Hasle LU, Ussercher",PAG,46.9815487,8.0573821
+327,"Weggis, Schiffstation",AAGS,47.0316211,8.4332908
+328,"Vitznau, Unteraltdorf",AAGS,47.0063053,8.4846061
+329,"Weggis, Riedsort",AAGS,47.0238393,8.4549102
+330,"Vitznau, Unterwilen",AAGS,47.0206671,8.4695205
+331,"Vitznau, Park Hotel",AAGS,47.0144598,8.4805403
+332,"Weggis, Zopf",AAGS,47.0355923,8.4230807
+333,"Weggis, Neubüel",AAGS,47.0333870,8.4266055
+334,"Weggis, Felsberg",AAGS,47.0307993,8.4401156
+335,"Weggis, Seilbahn",AAGS,47.0333911,8.4415151
+336,"Weggis, Acher",AAGS,47.0299610,8.4454217
+337,"Horw, Spitz",VBL,47.0138132,8.3010163
+338,"Romoos, Schwändi Zyberlibahn",PAG,46.9985470,8.0042772
+339,"Romoos, Schmitteli",PAG,46.9965940,8.0144481
+340,"Romoos, Adlisberg",PAG,46.9988339,8.0161378
+341,"Romoos, Stude",PAG,47.0035938,8.0183366
+342,"Romoos, Talherrenburg",PAG,47.0082162,8.0220580
+343,"Romoos, Flühboden",PAG,47.0120021,8.0293982
+344,"Doppleschwand, Brüggweid",PAG,47.0169808,8.0380737
+345,"Doppleschwand, Hohfuren",PAG,47.0188544,8.0444591
+346,"Doppleschwand, Spittel",PAG,47.0223343,8.0559312
+347,Burgmatt (Fontannen),PAG,47.0299649,8.0628256
+348,"Bramboden, Glashütte",PAG,46.9804988,8.0037972
+349,"Habschwanden, Ennetegg/Bachg.",PAG,46.9846597,8.0251556
+350,"Habschwanden, Diepleschwand",PAG,46.9813972,8.0182736
+351,"Hasle LU, Bahnhof",PAG,46.9781977,8.0471683
+352,"Habschwanden, Schulhaus",PAG,46.9882207,8.0404860
+353,"Malters, Bahnhof",PAG,47.0384161,8.1820320
+354,"Sörenberg, Ochsenweid",PAG,46.8254540,8.0228170
+355,"Sörenberg, Camping",PAG,46.8256857,8.0251201
+356,"Sörenberg, Schulhaus",PAG,46.8238024,8.0298208
+357,"Sörenberg, Schwändili",PAG,46.8148975,8.0494272
+358,"Sörenberg, Schwändili",PAG,46.8151034,8.0491980
+359,"Sörenberg, Habchegg",PAG,46.8112874,8.0567986
+360,"Schüpfheim, Landbrücke",PAG,46.9440824,8.0075615
+361,"Hasle LU, Heiligkreuzstrasse",PAG,46.9785626,8.0532728
+362,"Ebnet (Entlebuch), Sageli",PAG,47.0311581,8.0757030
+363,"Weggis, Tannenbergstrasse",AAGS,47.0342905,8.4471373
+364,"Kastanienbaum, Kreuzmatt",VBL,47.0126755,8.3345065
+365,"Horw, Ennethorw",VBL,47.0084968,8.3045373
+366,"Malters, alte Post",PAG,47.0366518,8.1811375
+367,"Kriens, Unter-Dattenberg",VBL,47.0409003,8.2938643
+368,"Kriens, Dattenberg",VBL,47.0414940,8.2933343
+369,"Kriens, Grabenhof",VBL,47.0248139,8.2964012
+370,"St. Niklausen LU, Mättiwil",VBL,47.0215899,8.3360631
+371,"St. Niklausen LU, Unterwil",VBL,47.0186896,8.3390744
+372,"Horw, Technikumstrasse",VBL,47.0135066,8.3049118
+373,"Weggis, Bannholz",AAGS,47.0297979,8.4546156
+374,"Weggis, Bodenberg",AAGS,47.0306950,8.4512980
+375,"Weggis, Post",AAGS,47.0323683,8.4321631
+376,"Weggis, Obstbaumstrasse",AAGS,47.0280437,8.4537971
+377,"Weggis, Paradiesweg",AAGS,47.0322838,8.4331251
+378,"Weggis, Lützelau",AAGS,47.0245994,8.4611718
+379,"Weggis, Magnolienweg",AAGS,47.0250310,8.4573643
+380,"Weggis, Föhrenrain",AAGS,47.0268592,8.4557971
+381,"Weggis, Lärchenweg",AAGS,47.0254463,8.4552927
+382,"Schachen LU, Dorf",VBL,47.0379646,8.1430256
+383,"Sörenberg, Post",PAG,46.8218299,8.0345661
+384,"Schwarzenberg LU, Rössli",PAG,47.0142650,8.1730625
+385,"Romoos, Post",PAG,47.0110119,8.0276475
+386,"Doppleschwand, Post",PAG,47.0186876,8.0554362
+387,"Sörenberg, Rothornbahn",PAG,46.8077807,8.0596175
+388,Klusstalden,PAG,46.9297494,8.0130072
+389,"Sörenberg, Südelhöchi",PAG,46.8333488,8.0133401
+390,"Sörenberg, Platz",PAG,46.8173381,8.0420886
+391,"Finsterwald LU, alte Post",PAG,46.9648736,8.1163580
+392,Gfellen,PAG,46.9559925,8.1273021
+393,"Hasle LU, Sandboden",PAG,46.9603132,8.0527680
+394,"Hasle LU, Haldenegg",PAG,46.9661470,8.0540693
+395,"Hasle LU, Hohwald",PAG,46.9631659,8.0549663
+396,"Hasle LU, Hofstatt",PAG,46.9758696,8.0570249
+397,"Hasle LU, Büelweid",PAG,46.9699943,8.0558879
+398,"Ebnet (Entlebuch), Bäckerei",PAG,47.0255273,8.0790314
+399,"Finsterwald LU, Entlematt",PAG,46.9659157,8.1103988
+400,"Sursee, Sappeurstrasse",PAG,47.1789107,8.1070684
+401,"Sursee, Chommlibach",PAG,47.1834712,8.1079322
+402,"Beromünster, Winon",PAG,47.2167814,8.1972623
+403,"Schwarzenbach LU, Löwen",PAG,47.2324379,8.2112723
+404,"Rickenbach LU, Rüchlig",PAG,47.2269700,8.1635390
+405,"Geuensee, Sternen",PAG,47.2003076,8.1069301
+406,"Hohenrain, Günikon",ZVB,47.1844261,8.3140396
+407,"Kleinwangen, Augstholz",ZVB,47.1908580,8.3060900
+408,"Hohenrain, Oberebersol",ZVB,47.1728076,8.3214589
+409,"Römerswil LU, Eiholdern",ZVB,47.1585792,8.2691638
+410,"Römerswil LU, Rehag",ZVB,47.1576536,8.2727930
+411,"Römerswil LU, Gosperdingen",ZVB,47.1570055,8.2615581
+412,"Römerswil LU, Gehren",ZVB,47.1598022,8.2642728
+413,"Römerswil LU, Mur",ZVB,47.1616499,8.2511787
+414,"Römerswil LU, Ludiswil",ZVB,47.1545557,8.2571289
+415,"Geuensee, Zollhaus",PAG,47.1895642,8.1141018
+416,"Hohenrain, Kreuz",ZVB,47.1792227,8.3156399
+417,"Kleinwangen, Oberdorf",ZVB,47.1984306,8.3000121
+418,"Hochdorf, Bahnhof",ZVB,47.1667408,8.2891762
+419,"Hochdorf, Industriestrasse",ZVB,47.1640385,8.2812265
+420,"Römerswil LU, Niffel",ZVB,47.1615274,8.2762421
+421,"Hitzkirch, Schönegg",ZVB,47.2275268,8.2675118
+422,"Hämikon, Stockmatt",ZVB,47.2313568,8.2736388
+423,"Hämikon, Oberdorf",ZVB,47.2391872,8.2800742
+424,"Hämikon, Berg",ZVB,47.2410259,8.2955329
+425,"Müswangen, Sonnmatt",ZVB,47.2385400,8.2866002
+426,"Hitzkirch, Bahnhof",ZVB,47.2225538,8.2523404
+427,"Wauwil, Sackmatt",PAG,47.1861250,8.0310430
+428,"Wauwil, Zentrum",PAG,47.1848350,8.0194840
+429,"Hitzkirch, Bleulikon",ZVB,47.2297027,8.2622508
+430,"Müswangen, Dorf",ZVB,47.2381582,8.2886635
+431,"Hämikon, Schulhaus",ZVB,47.2372406,8.2750081
+432,"Emmenbrücke, Bösfeld",AAGR,47.0880914,8.2728311
+433,"Rothenburg, Eschenbachstrasse",AAGR,47.0980779,8.2703661
+434,"Ebikon, Falken",VBL,47.0727608,8.3260536
+435,"Ebikon, Hünenberg",VBL,47.0714204,8.3235727
+436,"Ebikon, St. Klemens",VBL,47.0698153,8.3206412
+437,"Baldegg, Bahnhof",ZVB,47.1858223,8.2805778
+438,"Wolhusen, Neuemsern-Rossei",PAG,47.0427615,8.0694738
+439,"Wolhusen, Markt",PAG,47.0559883,8.0708713
+440,"Wolhusen, Viadukt",PAG,47.0585131,8.0724020
+441,"Wolhusen, Bahnhof",PAG,47.0556681,8.0793583
+442,"Menznau, Bahnhof",PAG,47.0833410,8.0407580
+443,"Ettiswil, Hinterdorf",PAG,47.1498420,8.0144812
+444,"Alberswil, Unterdorf",PAG,47.1560385,8.0008763
+445,"Kaltbach, Refa",PAG,47.1830450,8.0606940
+446,"Emmen, Allmendli",Auto AG Rothenburg (AAGR),47.0832285,8.3088352
+447,"Emmen, Unterspitalhof",AAGR,47.0808186,8.3062076
+448,"Triengen, Burgweid",PAG,47.2425340,8.0795470
+449,"Triengen, Burg",PAG,47.2404746,8.0815845
+450,"Luzern, Haldensteig",VBL,47.0550502,8.3159358
+451,"Neuenkirch, Klösterli",PAG,47.1030245,8.2016118
+452,"Neuenkirch, Lippenrüti",PAG,47.1111033,8.1945785
+453,"Neuenkirch, Kirche",PAG,47.1003614,8.2028224
+454,"Oberkirch LU, CAMPUS Sursee",PAG,47.1614400,8.0902964
+455,"Emmenbrücke, Holzhof",PAG,47.0867833,8.2343010
+456,"Kleinwangen, Hubelweid",ZVB,47.2107287,8.2939096
+457,"Schlierbach, Dorf",PAG,47.2242629,8.1120164
+458,"Sursee, Surentalstrasse",PAG,47.1765900,8.1093493
+459,"Sempach Stadt, Seesatz",PAG,47.1229455,8.1937980
+460,"Sempach Stadt, Vogelwarte",PAG,47.1292997,8.1923944
+461,"Eich, Seematt",PAG,47.1474084,8.1734818
+462,Etzelwil,PAG,47.2318274,8.1126852
+463,"Gunzwil, Holdern",PAG,47.1969817,8.1534407
+464,"Gunzwil, Hasenhusen",PAG,47.2035896,8.1564928
+465,"Gunzwil, Kagiswil",PAG,47.2142270,8.1638662
+466,"Schenkon, Haldenweid",PAG,47.1821927,8.1345158
+467,"Schenkon, Tannberg",PAG,47.1829530,8.1390097
+468,"Knutwil, Eriswil",PAG,47.2045458,8.0567778
+469,"Uffikon, Kantonsstrasse",PAG,47.2103075,8.0182796
+470,"Gunzwil, Linden",PAG,47.2088171,8.1847007
+471,"Knutwil, Hofacker",PAG,47.1936196,8.0743778
+472,"Schenkon, Dorf",PAG,47.1739006,8.1372739
+473,"Triengen, Forum",PAG,47.2363038,8.0756214
+474,"Sursee, Waldegg",PAG,47.1725671,8.0915727
+475,"Sursee, Mariazell",PAG,47.1739608,8.1191500
+476,"Ebikon, Schweizerheim",VBL,47.0700835,8.3290056
+477,"Neuenkirch, Post",PAG,47.0983123,8.2056453
+478,"Hohenrain, Unterebersol",ZVB,47.1702877,8.3105799
+479,"Sursee, Sonnhalde",PAG,47.1718902,8.1172544
+480,"Luzern, Konservatorium",VBL,47.0591944,8.3219623
+481,"Luzern, Hirzenhof",VBL,47.0497638,8.3019173
+482,"Winikon, Post",PAG,47.2384312,8.0511719
+483,"Alberswil, Dorf",PAG,47.1499414,8.0022385
+484,"Rothenburg, Flecken",AAGR,47.0937915,8.2717063
+485,"Triengen, Bahnhof",PAG,47.2347688,8.0736293
+486,"Hohenrain, Post",ZVB,47.1806773,8.3177414
+487,"Büron, Triengenacker",PAG,47.2211328,8.0886764
+488,"Schenkon, Tann",PAG,47.1859420,8.1441601
+489,"Werthenstein, Dorf",ARAG,47.0564689,8.1025101
+490,"Schenkon, Zentrum",PAG,47.1773763,8.1328352
+491,"Rothenburg, Süesstannen",AAGR,47.1179428,8.2463392
+492,"Rothenburg, Buzibach",AAGR,47.0924029,8.2539058
+493,"Rain, Dorf",AAGR,47.1299262,8.2576091
+494,"Rain, Rüti",AAGR,47.1270401,8.2522405
+495,"Neudorf, Paradisli",AAGR,47.1837072,8.2086354
+496,"Beromünster, Flecken",AAGR,47.2065627,8.1924757
+497,"Hochdorf, Nunwilerstrasse",ZVB,47.1631426,8.2783146
+498,"Beromünster, Waldhus",ZVB,47.2028307,8.2233598
+499,"Ruswil, Sonnhöfli",ARAG,47.0850713,8.1213854
+500,"Römerswil LU, Ludigen",ZVB,47.1810914,8.2402893
+501,"Herlisberg, Oberreinach",ZVB,47.1889486,8.2362133
+502,"Herlisberg, Steinhus",AAGR,47.1949861,8.2311972
+503,"Herlisberg, Dorfplatz",ZVB,47.1981176,8.2302039
+504,"Grosswangen, Hauelen",ARAG,47.1371251,8.0362641
+505,Rüediswil,ARAG,47.0886983,8.1126669
+506,"Ruswil, Soppenstig",ARAG,47.0939024,8.0981643
+507,"Hochdorf, Bankstrasse",ZVB,47.1683882,8.2901811
+508,"Buttisholz, Stalten",ARAG,47.0988789,8.0900886
+509,"Hochdorf, Heumoos",ZVB,47.1684390,8.3033099
+510,"Buttisholz, Guglern",ARAG,47.1072346,8.0854142
+511,"Aesch LU, Vorderdorf",ZVB,47.2543006,8.2416713
+512,"Wolhusen, Hohrüti/Höchweid",ARAG,47.0580575,8.0913923
+513,"Ruswil, Freieck",ARAG,47.0805413,8.1143036
+514,"Aesch LU, Berg",ZVB,47.2603587,8.2441738
+515,"Hitzkirch, Schulhaus",ZVB,47.2265713,8.2613992
+516,"Aesch LU, Kreuz",ZVB,47.2573335,8.2409172
+517,"Schongau, Mettmen",ZVB,47.2685299,8.2682796
+518,"Schongau, Oberschongau",ZVB,47.2729033,8.2771448
+519,"Schongau, Gmeinwärch",ZVB,47.2688355,8.2563249
+520,"Wolhusen Weid, Bahnhof",ARAG,47.0651145,8.0707142
+521,"Krumbach, Käserei",PAG,47.2101110,8.1256900
+522,"Wolhusen, Ankenberg",ARAG,47.0669046,8.0705819
+523,"Sempach, Schlacht",PAG,47.1460994,8.2132478
+524,"Wolhusen, Spital",ARAG,47.0672737,8.0738258
+525,"Hochdorf, Rigiring",ZVB,47.1675146,8.2989690
+526,"Eschenbach LU, Luzernstrasse",PAG,47.1312554,8.3216816
+527,"Emmenbrücke, Schaubhus",AAGR,47.0845334,8.2785554
+528,"Emmenbrücke, Waldstrasse",AAGR,47.0880590,8.2814741
+529,"Emmenbrücke, Benziwil Ost",AAGR,47.0897752,8.2805663
+530,"Emmenbrücke, Benziwil West",AAGR,47.0884221,8.2782596
+531,"Emmenbrücke, Celtastrasse",AAGR,47.0802449,8.2767383
+532,"Emmenbrücke, Ober Gersag",AAGR,47.0823099,8.2776152
+533,"Nottwil, Bahnhof",PAG,47.1387364,8.1384552
+534,"Emmenbrücke, Schwanderhofstr.",AAGR,47.0724545,8.2950923
+535,"Emmenbrücke, Chörbli",AAGR,47.0842066,8.2637080
+536,"Emmen, Schwimmbad Mooshüsli",Auto AG Rothenburg (AAGR),47.0799700,8.2883233
+537,"Emmen, Lindenheim",AAGR,47.0759537,8.2914904
+538,"Emmenbrücke, Zentrum Gersag",Emmer Busbetriebe AG (EEB),47.0790553,8.2782176
+539,"Littau, Schachenhof",AAGR,47.0622871,8.2651586
+540,"Emmen, Hasli",Auto AG Rothenburg (AAGR),47.0945246,8.3135813
+541,"Rickenbach LU, Dorf",PAG,47.2197742,8.1538271
+542,"Nottwil, Eymatt",ARAG,47.1388290,8.1297832
+543,"Wolhusen, Tropenhaus",ARAG,47.0675550,8.0822546
+544,"Udligenswil, Schützenmatt",PAG,47.0941025,8.4049413
+545,"Udligenswil, Dreiangel",PAG,47.1005536,8.4128156
+546,"Udligenswil, Neuheim",PAG,47.0837892,8.3986125
+547,"Udligenswil, alte Post",PAG,47.0905812,8.4010174
+548,"Adligenswil, Chliäbnet",PAG,47.0731434,8.3807462
+549,"Adligenswil, Sagi",PAG,47.0710284,8.3778671
+550,"Adligenswil, Blatte",PAG,47.0701350,8.3688477
+551,"Adligenswil, Widspüel",PAG,47.0735778,8.3600468
+552,"Ebikon, Bühl",VBL,47.0712559,8.3428968
+553,"Ebikon, Bahnhof",VBL,47.0840005,8.3423261
+554,"Buchrain, Reussbrücke",VBL,47.1028490,8.3500802
+555,"Buchrain, Eichmatt",VBL,47.0996774,8.3490020
+556,"Perlen, Haslirain",VBL,47.1075520,8.3559388
+557,"Ebikon, Schachenweid",VBL,47.0750158,8.3298766
+558,"Weggis, Langenzihl",AAGS,47.0471919,8.4258179
+559,"Perlen, Fabrik",VBL,47.1119496,8.3651950
+560,"Udligenswil, Frohsinn",PAG,47.0881021,8.3992369
+561,"Greppen, Oberhaus",AAGS,47.0563265,8.4310902
+562,"Inwil, Oberhofen",AAGR,47.1218271,8.3433907
+563,"Ebikon, Sagenschulhaus",VBL,47.0766282,8.3376571
+564,"Ebikon, Zentralschulhaus",VBL,47.0790520,8.3384581
+565,"Luzern, Rigistrasse",VBL,47.0587717,8.3305841
+566,"Adligenswil, Rigiblick",VBL,47.0655714,8.3623816
+567,"Ebikon, Gerbe",VBL,47.0740907,8.3374381
+568,"Meggen, Buchmatt",VBL,47.0509665,8.3580177
+569,"Meggen, Klösterli",VBL,47.0494831,8.3686292
+570,"Meggen, Hochrüti",VBL,47.0502721,8.3640386
+571,"Meggen, Englischer Friedhof",VBL,47.0513582,8.3534111
+572,"Meggen, Bahnhof",PAG,47.0498560,8.3823772
+573,"Adligenswil, Chliäbnet",PAG,47.0736697,8.3814071
+574,"Horw, Hofrüti",VBL,47.0244554,8.3133640
+575,"Horw, Buholz",VBL,47.0183157,8.3287391
+576,"Luzern, Bahnhof",VBL,47.0510534,8.3103560
+577,"Luzern, Hirzenhof",VBL,47.0494533,8.3021332
+578,"Luzern, Kreuzstutz",VBL,47.0544626,8.2915634
+579,"Luzern, Luzernerhof",VBL,47.0546590,8.3124958
+580,"Luzern, Bahnhof",VBL,47.0509787,8.3103700
+581,"Luzern, Bahnhof",VBL,47.0506642,8.3106148
+582,"Luzern, Bahnhof",VBL,47.0509349,8.3098408
+583,"Emmenbrücke, Strassenkreuz",PAG,47.0828061,8.2453595
+584,"Emmenbrücke, Strassenkreuz",PAG,47.0828074,8.2470670
+585,"Emmenbrücke, Strassenkreuz",PAG,47.0833885,8.2453850
+586,"Horw, Bahnhof",VBL,47.0183511,8.3072024
+587,"Emmenbrücke, Benziwil West",AAGR,47.0885094,8.2784484
+588,"Emmenbrücke, Waldstrasse",AAGR,47.0881704,8.2815191
+589,"Emmenbrücke Gersag, Bahnhof",AAGR,47.0788423,8.2773962
+590,"Luzern, Unterlöchli",VBL,47.0679436,8.3243162
+591,"Horw, Hofrüti",VBL,47.0242685,8.3141727
+592,"Luzern, Unterlöchli",VBL,47.0677218,8.3240953
+593,"Ebikon, Weichlen",VBL,47.0849830,8.3463939
+594,"Ebikon, Falken",VBL,47.0726568,8.3258601
+595,"Ebikon, Schindler",VBL,47.0882455,8.3517949
+596,"Root D4, Oberfeld",VBL,47.1029976,8.3757653
+597,"Root, Wilweg",VBL,47.1154194,8.3902960
+598,"Root, Ronmatt",VBL,47.1102445,8.3849796
+599,"Perlen, Dorf",VBL,47.1098850,8.3619237
+600,"Emmenbrücke, Emmen Center",AAGR,47.0744405,8.2862934
+601,"Meggen, Hochrüti",VBL,47.0502457,8.3642023
+602,"Emmenbrücke, Neuhof",AAGR,47.0721913,8.2573503
+603,"Emmen, Rüeggisingen",AAGR,47.0823180,8.2842257
+604,"Emmen, Fichtenstrasse",AAGR,47.0740875,8.2900182
+605,"Emmenbrücke, Benziwil Ost",AAGR,47.0897141,8.2803257
+606,"Ebikon, Löwen",VBL,47.0790944,8.3366581
+607,"Ebikon, Löwen",VBL,47.0796132,8.3376774
+608,"Meggen, Kapelle",VBL,47.0473543,8.3761164
+609,"Ebikon, Fildern",VBL,47.0924796,8.3585496
+610,"Ebikon, Fildern",VBL,47.0925482,8.3589212
+611,"Dierikon, Migros",VBL,47.0954203,8.3636930
+612,"Ebikon, Weichlen",VBL,47.0849926,8.3465648
+613,"Sursee, Kotten",PAG,47.1718109,8.0950459
+614,"Sursee, Holzacherstrasse",ARAG,47.1698989,8.0907713
+615,"Ettiswil, Surseestrasse",ARAG,47.1518017,8.0242636
+616,"Sursee, Holzacherstrasse",ARAG,47.1701352,8.0916410
+617,"Mauensee, Schloss",ARAG,47.1664760,8.0749076
+618,"Ettiswil, Surseestrasse",ARAG,47.1515625,8.0235800
+619,"Sursee, Kotten",PAG,47.1718290,8.0949334
+620,"Mauensee, Schloss",ARAG,47.1669617,8.0726458
+621,"Willisau, Zopfmatt",PAG,47.1190094,7.9801489
+622,"Ettiswil, Oberdorf",PAG,47.1445926,8.0143098
+623,"Willisau, Leuenplatz",ARAG,47.1218928,7.9922668
+624,"Willisau, Friedhof",ARAG,47.1205798,7.9882689
+625,"Willisau, Schlüsselacher",PAG,47.1196789,7.9827727
+626,"Alberswil, Burgrain",PAG,47.1418187,8.0044589
+627,"Kottwil, Seewagen",ARAG,47.1650232,8.0469569
+628,"Sursee, Park",PAG,47.1726228,8.1013843
+629,"Flühli LU, Schintmoos",PAG,46.8995185,8.0129867
+630,Rigi Kaltbad-First,RB,47.0439451,8.4666243
+631,Vitznau RB,RB,47.0096410,8.4829858
+632,"Sörenberg, Skilift Rischli",PAG,46.8296979,8.0165637
+633,Emmenbrücke,SBB,47.0706062,8.2824568
+634,"Rothenburg, Eichenring",AAGR,47.0969516,8.2614617
+635,"Rothenburg, Lindau",AAGR,47.1002819,8.2679610
+636,"Rothenburg, Lindau",AAGR,47.1004774,8.2676353
+637,"Rothenburg, Mauritiusring",AAGR,47.0997257,8.2620013
+638,"Ebikon, Hartenfels",Verkehrsbetriebe Luzern AG (VBL),47.0875206,8.3565395
+639,"Ebikon, Hartenfels",Verkehrsbetriebe Luzern AG (VBL),47.0875156,8.3563114
+640,"Ebikon, Höchweid",Verkehrsbetriebe Luzern AG (VBL),47.0840087,8.3492096
+641,"Ebikon, Höchweid",Verkehrsbetriebe Luzern AG (VBL),47.0841127,8.3484270
+642,"Ebikon, Höfli",Verkehrsbetriebe Luzern AG (VBL),47.0860361,8.3526592
+643,"Ebikon, Höfli",Verkehrsbetriebe Luzern AG (VBL),47.0862352,8.3526803
+644,"Ebikon, Weichlen",VBL,47.0844234,8.3466756
+645,"Ebikon, Weichlen",VBL,47.0843802,8.3464179
+646,Emmenbrücke Gersag,SBB,47.0781350,8.2767673
+647,Emmenbrücke Kapf,SBB,47.0908300,8.2731823
+648,Ebikon,SBB,47.0842196,8.3423938
+649,Buchrain,SBB,47.0933066,8.3558676
+650,Root D4,SBB,47.1048078,8.3736490
+651,Gisikon-Root,SBB,47.1211824,8.3947181
+652,Luzern Verkehrshaus,SBB,47.0538744,8.3373276
+653,Meggen Zentrum,SBB,47.0450593,8.3741218
+654,Meggen,SBB,47.0501486,8.3830296
+655,"Kriens, Feldmühle",PAG,47.0342964,8.2660009
+656,"Schüpfheim, Moosmättili",PAG,46.9538187,8.0211776
+657,"Flühli LU, Hüttlenen",PAG,46.8758675,8.0174309
+658,"Flühli LU, Torbach",PAG,46.8803904,8.0165761
+659,"Flühli LU, Post",PAG,46.8840697,8.0153096
+660,"Emmen, Lindenheim",AAGR,47.0760133,8.2914568
+661,"Emmen, Hasli",Auto AG Rothenburg (AAGR),47.0936695,8.3131445
+662,"Emmen, Schwimmbad Mooshüsli",Auto AG Rothenburg (AAGR),47.0804356,8.2876317
+663,"Emmenbrücke, Bösfeld",AAGR,47.0872665,8.2730392
+664,"Emmenbrücke, Hübeli",AAGR,47.0871086,8.2760709
+665,"Emmenbrücke, Ober Gersag",AAGR,47.0819521,8.2774335
+666,"Emmenbrücke, Sonnenplatz",AAGR,47.0774924,8.2760796
+667,"Emmenbrücke, Sportplatz",AAGR,47.0803910,8.2815528
+668,,AAGR,47.0701802,8.2769638
+669,,AAGR,47.0710985,8.2759515
+670,"Emmenbrücke Gersag, Bahnhof",AAGR,47.0788767,8.2771846
+671,,Auto AG Rothenburg (AAGR),47.0805115,8.2723614
+672,,Auto AG Rothenburg (AAGR),47.0814311,8.2704163
+673,,Auto AG Rothenburg (AAGR),47.0813761,8.2721502
+674,"Reussbühl, Ruopigen Zentrum",AAGR,47.0629707,8.2744909
+675,"Luzern, Löwenplatz",VBL,47.0562012,8.3104613
+676,"Luzern, Pilatusplatz",PAG,47.0482057,8.3037268
+677,"Emmenbrücke, Neuhof",AAGR,47.0720165,8.2560188
+678,"Horw, Biregghof",VBL,47.0345092,8.3119425
+679,"Luzern, Bodenhofterrasse",VBL,47.0377563,8.3191381
+680,"Luzern, Geissenstein",VBL,47.0377181,8.3158776
+681,"Luzern, Tiefe",VBL,47.0412825,8.3131862
+682,"Luzern, Verkehrshaus/Lido",VBL,47.0539991,8.3353512
+683,"Meggen, Balm",VBL,47.0446875,8.3674978
+684,"Ebikon, Ladengasse",VBL,47.0810416,8.3414668
+685,"Luzern, Bodenhofterrasse",VBL,47.0380137,8.3187035
+686,"Weggis, Lorbeerweg",AAGS,47.0249546,8.4564498
+687,"Weggis, Lützelaustrasse",AAGS,47.0260376,8.4573803
+688,"Weggis, Buchenweg",AAGS,47.0290026,8.4574912
+689,"Weggis, Blauweidweg",AAGS,47.0328276,8.4376127
+690,"Reussbühl, Frohburg",AAGR,47.0658684,8.2820592
+691,"Altwis, Dorf",ZVB,47.2383475,8.2513247
+692,"Altwis, Dorf",ZVB,47.2394101,8.2506312
+693,"Adligenswil, Sagi",PAG,47.0713927,8.3786747
+694,"Hochdorf, Oberstufenzentrum",ZVB,47.1694148,8.2940316
+695,"Hochdorf, Oberstufenzentrum",ZVB,47.1692978,8.2945567
+696,"Kleinwangen, Ferren",ZVB,47.1913893,8.2881253
+697,"Kleinwangen, Ferren",ZVB,47.1914543,8.2881187
+698,"Hochdorf, Bankstrasse",ZVB,47.1686058,8.2902258
+699,"Hochdorf, Rigiring",ZVB,47.1676069,8.2993937
+700,"Hohenrain, Ottenhusen",ZVB,47.1649288,8.3274689
+701,"Hohenrain, Unterebersol",ZVB,47.1705126,8.3099650
+702,"Hitzkirch, Dorf",ZVB,47.2248869,8.2629271
+703,"Hitzkirch, Dorf",ZVB,47.2248956,8.2616061
+704,"Hitzkirch, Friedhof",ZVB,47.2236935,8.2586118
+705,"Langnau bei Reiden, Käserei",AVA,47.2308862,7.9614018
+706,"Wikon, Hotel Adelboden",AVA,47.2688892,7.9615516
+707,"Luzern, Allmend/Messe",VBL,47.0350163,8.3029352
+708,"Luzern, Allmend/Messe",VBL,47.0349837,8.3026748
+709,"Knutwil, Hofacker",PAG,47.1934621,8.0743695
+710,"Rothenburg, Wahligen Nord",AAGR,47.0964794,8.2443645
+711,"Altbüron, Hiltbrunnen",PAG,47.1789220,7.8816159
+712,"Fischbach LU, Krone",PAG,47.1578019,7.9067928
+713,"Fischbach LU, Leimbütz",PAG,47.1493568,7.9111139
+714,"Grossdietwil, Post",PAG,47.1707917,7.8865207
+715,"Fischbach LU, Reiferswil",PAG,47.1627861,7.9014686
+716,"Grossdietwil, Sandgruebe",PAG,47.1742263,7.8837655
+717,"Fischbach LU, alte Post",PAG,47.1522699,7.9093932
+718,"St. Urban, Klinik",PAG,47.2292472,7.8392460
+719,"St. Urban, Klinik",PAG,47.2299810,7.8388897
+720,"Altbüron, Post",PAG,47.1809099,7.8799884
+721,"St. Urban, Tundwilerweg",PAG,47.2249363,7.8393096
+722,"St. Urban, Tundwilerweg",PAG,47.2249033,7.8395289
+723,"Sempach Stadt, Seesatz",PAG,47.1236310,8.1937388
+724,"Entlebuch, Rusacher",PAG,47.0023431,8.0704857
+725,Luzern,SBB,47.0502364,8.3102966
+726,Waldibrücke,SBB,47.1077443,8.3196144
+727,"Beromünster, Waldhus",ZVB,47.2026361,8.2238570
+728,"Luzern, Bahnhof",VBL,47.0506324,8.3092610
+729,Hitzkirch,SBB,47.2226920,8.2520443
+730,"Meierskappel, Dorfplatz",PAG,47.1247405,8.4432702
+731,"Udligenswil, Schützenmatt",PAG,47.0937441,8.4046212
+732,"Udligenswil, alte Post",PAG,47.0906545,8.4014591
+733,"Luthern Bad, Dreilindenplatz",PAG,47.0271121,7.9250892
+734,"Sursee, Park",PAG,47.1728356,8.1013373
+735,"Entlebuch, Zeug",PAG,47.0143310,8.0752855
+736,"Entlebuch, Zeug",PAG,47.0142947,8.0750787
+737,"Ebnet (Entlebuch), Schulhaus",PAG,47.0222166,8.0774569
+738,"Wolhusen, Emsern",PAG,47.0511596,8.0674215
+739,"Wolhusen, Emsern",PAG,47.0511657,8.0672717
+740,"Entlebuch, Drei Könige",PAG,46.9938147,8.0646488
+741,"Sursee, Waldegg",PAG,47.1727384,8.0911421
+742,"Rothenburg Station, Bhf. Ost",AAGR,47.0887629,8.2487704
+743,"Sursee, Rathaus",PAG,47.1723067,8.1102152
+744,"Sursee, Rathaus",PAG,47.1726332,8.1091974
+745,"Sursee, Post",PAG,47.1716621,8.1065618
+746,"Sursee, Post",PAG,47.1719162,8.1073694
+747,"Sursee, Rothüsli",PAG,47.1743915,8.1096303
+748,"Sursee, Chommlibach",PAG,47.1843129,8.1082450
+749,"Eich, Seematt",PAG,47.1473547,8.1736238
+750,"Sempach Stadt, Meierhöfli",PAG,47.1379074,8.1899822
+751,"Sempach Stadt, Meierhöfli",PAG,47.1378656,8.1903122
+752,"Sempach Stadt, Vogelwarte",PAG,47.1288718,8.1925011
+753,Sempach Station,PAG,47.1162395,8.1953463
+754,"Schüpfheim, Schwändi",PAG,46.9573388,8.0341887
+755,"Marbach LU, Ey",PAG,46.8634970,7.9034140
+756,"Marbach LU, Geissenmoos",PAG,46.8658530,7.9064158
+757,"Wiggen, Hilfernstrasse",PAG,46.8828572,7.9151266
+758,"Marbachegg, Talstation",PAG,46.8501532,7.8953597
+759,"Marbachegg, Talstation",PAG,46.8503560,7.8954349
+760,"Marbach LU, Mösli",PAG,46.8456584,7.8907830
+761,"Marbach LU, Post",PAG,46.8565888,7.9005095
+762,"Escholzmatt, Riedgasse",PAG,46.9077024,7.9311734
+763,"Wiggen, Schächli",PAG,46.8781974,7.9122925
+764,"Wiggen, Unterbach",PAG,46.9003732,7.9215698
+765,"Marbach LU, Untergasse",PAG,46.8399974,7.8820762
+766,"Wiggen, Egghus",PAG,46.8956131,7.9090896
+767,"Wiggen, Wittenmoos",PAG,46.8866690,7.9130317
+768,"Luzern, Brüel",VBL,47.0528861,8.3391220
+769,"Luzern, Verkehrshaus/Lido",VBL,47.0541288,8.3351175
+770,"Hüswil, Stoos",PAG,47.1228696,7.9110876
+771,"Luthern, Wieden",PAG,47.0674551,7.9181856
+772,"Luthern, Dorf",PAG,47.0600989,7.9163402
+773,"Hofstatt, Dorf",PAG,47.0852540,7.9147527
+774,"Ufhusen, Ruefswil",PAG,47.1099415,7.9190185
+775,"Büron, Dorf",PAG,47.2137358,8.0947056
+776,"Schongau, Mettmen",ZVB,47.2686472,8.2678184
+777,"Geuensee, Ausserdorf",PAG,47.1948813,8.1114497
+778,"Neuenkirch, Klösterli",PAG,47.1031278,8.2015523
+779,"Hämikon, Oberdorf",ZVB,47.2391977,8.2799722
+780,"Müswangen, Sonnmatt",ZVB,47.2385131,8.2865717
+781,"Hitzkirch, Schönegg",ZVB,47.2274502,8.2675150
+782,Escholzmatt,SBB,46.9153281,7.9363271
+783,Schüpfheim,SBB,46.9508022,8.0154546
+784,Baldegg,SBB,47.1856852,8.2801699
+785,Eschenbach LU,SBB,47.1324388,8.3227267
+786,Hochdorf,SBB,47.1669678,8.2887762
+787,Dagmersellen,SBB,47.2175452,7.9790681
+788,Entlebuch,SBB,46.9936765,8.0624171
+789,Gettnau,BLS,47.1401336,7.9701450
+790,Hüswil,BLS,47.1285354,7.9058914
+791,Littau,SBB,47.0530095,8.2571350
+792,Malters,SBB,47.0385310,8.1819784
+793,Menznau,BLS,47.0833435,8.0409563
+794,Nebikon,SBB,47.1923746,7.9773954
+795,Reiden,SBB,47.2414572,7.9688523
+796,Rothenburg Station,SBB,47.0892055,8.2475716
+797,Schachen LU,SBB,47.0379322,8.1432808
+798,Sempach-Neuenkirch,SBB,47.1161159,8.1959894
+799,Sursee,SBB,47.1708212,8.0979538
+800,Willisau,BLS,47.1226087,7.9967719
+801,Wolhusen,SBB,47.0555014,8.0799888
+802,Zell LU,BLS,47.1367113,7.9263740
+803,Horw,ZB,47.0174142,8.3068549
+804,"Weggis, Lindenweg",AAGS,47.0262204,8.4554240
+805,"Weggis, Kastanienweg",AAGS,47.0278774,8.4554896
+806,"Oberkirch LU, Terra Alta",PAG,47.1607871,8.0980759
+807,"Eich, Eichberg",PAG,47.1598180,8.1672038
+808,"Eich, Eichhof",PAG,47.1554212,8.1658438
+809,"Eich, Eichhof",PAG,47.1554135,8.1656787
+810,"Sempach Stadt, Hültschern",PAG,47.1335604,8.1954517
+811,"Eich, Eichberg",PAG,47.1599901,8.1676291
+812,"Eich, Vogelsang",PAG,47.1609713,8.1767343
+813,"Neuenkirch, Feldmatt",PAG,47.1054543,8.1989601
+814,"Neuenkirch, Feldmatt",PAG,47.1062428,8.1971463
+815,"Emmenbrücke, Listrig",AAGR,47.0792960,8.2664686
+816,"Emmenbrücke, Riffig",AAGR,47.0821639,8.2648656
+817,"Roggliswil, Niederwil",AVA,47.2145495,7.8887087
+818,"Pfaffnau, Post",AVA,47.2269705,7.8966166
+819,"Pfaffnau, Post",AVA,47.2272588,7.8970538
+820,"Pfaffnau, Steinacher",AVA,47.2240501,7.8926421
+821,"Roggliswil, Unterfeld",SBB Auto,47.2171308,7.8890922
+822,"Emmen, Fichtenstrasse",AAGR,47.0740652,8.2903551
+823,"Luzern, Pilatusplatz",PAG,47.0475361,8.3033024
+824,"Luzern, Bundesplatz",VBL,47.0467892,8.3080479
+825,"Geuensee, Sternen",PAG,47.2005477,8.1068095
+826,"Weggis, Langenzihl",AAGS,47.0465739,8.4256584
+827,"Neuenkirch, Kirche",PAG,47.1003740,8.2026938
+828,"Willisau, Mohrenplatz",PAG,47.1208331,7.9938052
+829,"Hasle LU, Heiligkreuzstrasse",PAG,46.9787735,8.0533758
+830,"Sursee, Mariazell",PAG,47.1737730,8.1178960
+831,"Adligenswil, Blatte",PAG,47.0706799,8.3670822
+832,"Reiden, Industrie Weiher",AVA,47.2551231,7.9691311
+833,"Flühli LU, Hirseggbrücke",PAG,46.8550768,8.0147941
+834,"Flühli LU, Hirseggbrücke",PAG,46.8554623,8.0157109
+835,"Schüpfheim, Badhus",PAG,46.9389756,8.0068402
+836,"Reussbühl, Staffeln Schulhaus",AAGR,47.0635307,8.2801011
+837,"Emmenbrücke, Bahnhof Süd",AAGR,47.0694352,8.2828469
+838,"Emmenbrücke, Bahnhof Süd",AAGR,47.0689803,8.2822122
+839,"Emmenbrücke, Bahnhof Süd",VBL,47.0693966,8.2831363
+840,"Reussbühl, Schiff",VBL,47.0634490,8.2847074
+841,"Reussbühl, Schiff",VBL,47.0639344,8.2843126
+842,,,47.0322065,8.4212313
+843,,,47.0316736,8.4248872
+844,,,47.0304082,8.4097679
+845,"Weggis, Schulhaus",AAGS,47.0331018,8.4354146
+846,,VBL,47.0530427,8.3087270
+847,"Weggis, Riedsort",AAGS,47.0236522,8.4561046
+848,"Willisau, Zehntenplatz",PAG,47.1197199,7.9883415
+849,"Udligenswil, Götzentalstrasse",PAG,47.0794489,8.3909567
+850,"Udligenswil, Götzentalstrasse",PAG,47.0798713,8.3916950
+851,,VBL,47.0516724,8.3402927
+852,,VBL,47.0509739,8.3405922
+853,"Zell LU, St. Urbanstrasse",PAG,47.1377156,7.9226221
+854,"Zell LU, St. Urbanstrasse",PAG,47.1381160,7.9227541
+855,"Rickenbach LU, Bohler",AAGR,47.2448869,8.1362760
+856,"Rickenbach LU, Krümmigasse",AAGR,47.2243644,8.1474641
+857,,VBL,47.0537101,8.2990693
+858,"Werthenstein, Dorf",ARAG,47.0564771,8.1028569
+859,,VBL,47.0454677,8.3038663
+860,"Eschenbach LU, Lindenfeld",PAG,47.1345541,8.3198409
+861,"Schwarzenberg LU, Ried",PAG,47.0201914,8.2007588
+862,"Emmen, Emmenfeld",AAGR,47.0805881,8.2988152
+863,,Verkehrsbetriebe Luzern AG (VBL),47.0726941,8.2782101
+864,,Verkehrsbetriebe Luzern AG (VBL),47.0727027,8.2786023
+865,"Triengen, Forum",PAG,47.2364455,8.0755351
+866,"Triengen, Dorf",PAG,47.2338742,8.0769897
+867,,,47.0496947,8.3136538
+868,"Schenkon, Tannberg",PAG,47.1827522,8.1383209
+869,"Sempach Stadt, Post",PAG,47.1343704,8.1916174
+870,"Luzern, Bahnhof",VBL,47.0507571,8.3098938
+871,,VBL,47.0544452,8.2908736
+872,"Schüpfheim, Badhus",PAG,46.9405108,8.0069837
+873,,VBL,47.0295971,8.2915453
+874,"Emmenbrücke, Riffigrain",AAGR,47.0799959,8.2685291
+875,"Rothenburg, Eichenring",AAGR,47.0966665,8.2613578
+876,"Rothenburg, Bertiswil",AAGR,47.1017579,8.2633265
+877,"Gisikon, Weitblick",VBL,47.1273377,8.3994194
+878,"Gisikon, Weitblick",VBL,47.1271241,8.3992536
+879,"Reussbühl, Waldstrasse",AAGR,47.0597271,8.2780550
+880,"Beromünster, Post",PAG,47.2078600,8.1894289
+881,"Ebikon, Hofmatt",VBL,47.0826142,8.3426572
+882,"Ebikon, Hofmatt",VBL,47.0829411,8.3430521
+883,"Ebikon, Ladengasse",VBL,47.0813105,8.3404883
+884,"Ebikon, Ladengasse",VBL,47.0815668,8.3407312
+885,"Ebikon, St. Klemens",VBL,47.0696171,8.3201901
+886,"Ebikon, Bahnhof",VBL,47.0846785,8.3433806
+887,"Ebikon, Bahnhof",VBL,47.0843595,8.3428900
+888,,VBL,47.0542983,8.3388916
+889,,VBL,47.0560136,8.3449508
+890,,VBL,47.0560876,8.3447572
+891,,VBL,47.0572816,8.3483448
+892,,VBL,47.0574974,8.3490561
+893,,VBL,47.0594251,8.3522651
+894,"Luzern, Hochhüsliweid",VBL,47.0595984,8.3527192
+895,"Root D4, Oberfeld",AAGS,47.1030552,8.3768030
+896,"Root D4, Oberfeld",AAGS,47.1032175,8.3767160
+897,"Udligenswil, Götzentalstrasse",PAG,47.0801057,8.3906802
+898,"Udligenswil, Frohsinn",PAG,47.0883733,8.3991722
+899,"Eschenbach LU, Lindenfeld",PAG,47.1340647,8.3197984
+900,,Auto AG Rothenburg (AAGR),47.1088882,8.3204928
+901,,AAGR,47.1079393,8.3197928
+902,"Buchrain, Sagenwald",ARAG,47.1072243,8.3435380
+903,"Inwil, Oberhofen",AAGR,47.1218863,8.3442415
+904,"Gisikon-Root, Bahnhof",VBL,47.1216903,8.3952464
+905,"Gisikon-Root, Bahnhof",VBL,47.1208238,8.3945773
+906,"Inwil, Nussbaum",PAG,47.1249664,8.3898166
+907,"Inwil, Pannerhof",VBL,47.1219580,8.3468306
+908,"Eschenbach LU, Luzernstrasse",PAG,47.1315218,8.3213351
+909,"Hochdorf, Schönau",PAG,47.1649644,8.2988177
+910,"Hochdorf, Schönau",PAG,47.1652017,8.2976752
+911,"Honau, Hirschen",PAG,47.1331598,8.4068327
+912,,VBL,47.0587776,8.3093615
+913,"Ebikon, Fildern",VBL,47.0921674,8.3580333
+914,"Luzern, Maihof",VBL,47.0673042,8.3146704
+915,"Luzern, Kantonalbank",VBL,47.0481233,8.3068886
+916,,VBL,47.0429742,8.3117895
+917,,VBL,47.0426835,8.3117999
+918,,VBL,47.0382259,8.3065443
+919,,VBL,47.0379644,8.3069485
+920,,VBL,47.0388336,8.3045722
+921,,VBL,47.0390321,8.3042558
+922,,VBL,47.0401750,8.3085086
+923,,VBL,47.0400908,8.3083462
+924,"Luzern, Gütsch",VBL,47.0523321,8.2966252
+925,"Reussbühl, Fluhmühle",VBL,47.0582170,8.2861980
+926,,VBL,47.0545803,8.3122613
+927,,VBL,47.0545845,8.3447147
+928,,VBL,47.0549317,8.3435041
+929,,VBL,47.0554443,8.3236475
+930,,VBL,47.0555692,8.3244074
+931,,VBL,47.0553566,8.3270597
+932,,VBL,47.0556031,8.3266285
+933,,VBL,47.0544875,8.3396452
+934,,VBL,47.0542043,8.3398710
+935,,VBL,47.0540280,8.3397387
+936,,VBL,47.0512529,8.3483922
+937,,VBL,47.0519831,8.3504040
+938,,VBL,47.0523007,8.3495547
+939,,VBL,47.0523587,8.3504559
+940,,VBL,47.0531879,8.3528715
+941,,VBL,47.0538216,8.3559063
+942,,VBL,47.0545773,8.3113232
+943,"Emmenbrücke, Bahnhof Süd",AAGR,47.0691580,8.2828013
+944,"Beromünster, Post",PAG,47.2079251,8.1893298
+945,"Beromünster, Post",PAG,47.2078952,8.1893753
+946,"Beromünster, Post",PAG,47.2078264,8.1894801
+947,"Beromünster, Winon",PAG,47.2168371,8.1974851
+948,,PAG,47.0555182,8.3125602
+949,,PAG,47.0560834,8.3123187
+950,,VBL,47.0404964,8.3205757
+951,,VBL,47.0571698,8.3142033
+952,,VBL,47.0547683,8.3114129
+953,,VBL,47.0556008,8.3120356
+954,,VBL,47.0646209,8.3197573
+955,,VBL,47.0645271,8.3195962
+956,,VBL,47.0631741,8.3183687
+957,"Adligenswil, Stuben",VBL,47.0727440,8.3504333
+958,"Ebikon, Bühl",VBL,47.0712889,8.3430548
+959,"Ebikon, Schlössli",PAG,47.0707228,8.3366682
+960,"Ebikon, Schweizerheim",Schweizerheim,47.0698757,8.3282892
+961,,VBL,47.0532081,8.3091350
+962,,VBL,47.0655012,8.3214696
+963,,VBL,47.0655629,8.3219365
+964,,VBL,47.0631144,8.3178573
+965,,VBL,47.0620546,8.3160642
+966,,VBL,47.0611207,8.3155148
+967,,VBL,47.0606711,8.3151033
+968,,VBL,47.0587859,8.3147258
+969,,VBL,47.0590173,8.3147696
+970,,VBL,47.0577677,8.3163417
+971,,VBL,47.0578028,8.3162019
+972,,VBL,47.0410504,8.3201320
+973,,VBL,47.0421940,8.3178794
+974,,VBL,47.0426898,8.3167183
+975,,VBL,47.0364071,8.3124671
+976,,VBL,47.0368494,8.3129160
+977,,VBL,47.0382076,8.3129423
+978,,Auto AG Rothenburg (AAGR),47.0732603,8.2875527
+979,"Willisau, Widenmatt",PAG,47.1306403,7.9982019
+980,"Willisau, Widenmatt",PAG,47.1298866,7.9977568
+981,"Willisau, Feldli",PAG,47.1269084,7.9974625
+982,"Willisau, Feldli",PAG,47.1275856,7.9976489
+983,"Willisau, Bahnhof",PAG,47.1221082,7.9973354
+984,"Willisau, Bahnhof",PAG,47.1222128,7.9972253
+985,"Willisau, Bahnhof",PAG,47.1223863,7.9970383
+986,"Rickenbach LU, Rüchlig",PAG,47.2248456,8.1597869
+987,"Rickenbach LU, Rüchlig",PAG,47.2250858,8.1596817
+988,"Rickenbach LU, Dorf",PAG,47.2197279,8.1540577
+989,"Sursee, Bahnhof",PAG,47.1704687,8.0985252
+990,"Sursee, Bahnhof",PAG,47.1699604,8.0990681
+991,"Sursee, Spital",PAG,47.1685876,8.1171458
+992,"Sursee, Altstadt",PAG,47.1723907,8.1109548
+993,"Sursee, Altstadt",PAG,47.1725446,8.1109466
+994,"Sursee, Frieslirain",PAG,47.1696380,8.1137178
+995,"Sursee, Frieslirain",PAG,47.1697141,8.1136796
+996,"Sursee, Sonnhalde",PAG,47.1721573,8.1172725
+997,"Schenkon, Zellburg",PAG,47.1776397,8.1272727
+998,"Schenkon, Zellfeld",PAG,47.1790032,8.1308621
+999,"Schenkon, Haldenweid",PAG,47.1825806,8.1341875
+1000,"Schenkon, Tann",PAG,47.1860024,8.1451535
+1001,"Gunzwil, Chommle",PAG,47.1923241,8.1570358
+1002,"Gunzwil, Chommle",PAG,47.1923173,8.1573074
+1003,"Meierskappel, Robmatt",PAG,47.1062837,8.4202133
+1004,"Meierskappel, Robmatt",PAG,47.1064572,8.4209044
+1005,"Meierskappel, Feissenacher",PAG,47.1132208,8.4343418
+1006,"Meierskappel, Käppelihof",PAG,47.1190458,8.4399206
+1007,"Meierskappel, Käppelihof",PAG,47.1190496,8.4397710
+1008,"Weggis, Dorfplatz",AAGS,47.0322840,8.4354992
+1009,"Weggis, Dorfplatz",AAGS,47.0323732,8.4355772
+1010,"Vitznau, Station",AAGS,47.0093449,8.4832987
+1011,"Vitznau, Station",AAGS,47.0096337,8.4834405
+1012,"Vitznau, Floralpina",AAGS,46.9999137,8.4802654
+1013,"Vitznau, Floralpina",AAGS,46.9998995,8.4804833
+1014,"Vitznau, Unteraltdorf",AAGS,47.0060470,8.4847446
+1015,"Vitznau, Unterwilen",AAGS,47.0196284,8.4709638
+1016,"Weggis, Lützelau",AAGS,47.0246808,8.4618746
+1017,"Weggis, Acher",AAGS,47.0300380,8.4451820
+1018,"Weggis, Zopf",AAGS,47.0352345,8.4236337
+1019,"Weggis, Rigistrasse",AAGS,47.0325493,8.4393695
+1020,"Weggis, Riedsortegg",AAGS,47.0243165,8.4553045
+1021,"Weggis, Zingelistrasse",AAGS,47.0357512,8.4440080
+1022,"Weggis, Under Linde",AAGS,47.0343991,8.4435346
+1023,"Schlierbach, Oberdorf",PAG,47.2251534,8.1139243
+1024,"Schlierbach, Oberdorf",PAG,47.2258717,8.1132099
+1025,"Uffikon, Kantonsstrasse",PAG,47.2103170,8.0179673
+1026,"St. Erhard, Heidenacher",PAG,47.1899806,8.0748859
+1027,"St. Erhard, Wiberg",PAG,47.1848770,8.0717593
+1028,"Knutwil, Dorf",PAG,47.1991618,8.0723512
+1029,"Büron, Triengenacker",PAG,47.2200945,8.0892816
+1030,"Sursee, Surentalstrasse",PAG,47.1780396,8.1099549
+1031,"Geuensee, Zollhaus",PAG,47.1898965,8.1139549
+1032,"Geuensee, Chäppelimatt",PAG,47.1975937,8.1091216
+1033,"Sursee, Münchrüti",PAG,47.1757113,8.0988091
+1034,"Sursee, Münchrüti",PAG,47.1765638,8.0999028
+1035,"Sursee, Sappeurstrasse",PAG,47.1788380,8.1060721
+1036,"Schlierbach, Dorf",PAG,47.2238422,8.1110937
+1037,"Triengen, Grossfeld",PAG,47.2460704,8.0696766
+1038,"Triengen, Grossfeld",PAG,47.2462270,8.0699006
+1039,"Triengen, Grund",PAG,47.2294498,8.0820421
+1040,"Gunzwil, Linden",PAG,47.2088605,8.1844426
+1041,"Gunzwil, Dorf",PAG,47.2110923,8.1799268
+1042,"Gunzwil, Kagiswil",PAG,47.2139254,8.1643218
+1043,"Schenkon, Zellfeld",PAG,47.1785584,8.1307790
+1044,"Gunzwil, Bäch",PAG,47.1722667,8.1672108
+1045,"Eich, Brand",PAG,47.1650717,8.1687182
+1046,"Eich, Brand",PAG,47.1653938,8.1688868
+1047,"Eich, Vogelsang",PAG,47.1607670,8.1763705
+1048,"Sempach Station, Mettenwilstr.",PAG,47.1166448,8.1998865
+1049,"Sempach Stadt, Seemätteli",PAG,47.1436650,8.1803559
+1050,"Schenkon, Dorf",PAG,47.1734560,8.1376092
+1051,"Schenkon, Zentrum",PAG,47.1768976,8.1335973
+1052,"Richenthal, Kurhaus",AVA,47.2082684,7.9393943
+1053,"Richenthal, Kirche",AVA,47.2192576,7.9471414
+1054,"Richenthal, Kirche",AVA,47.2190307,7.9468454
+1055,"Langnau bei Reiden, Lupfen",AVA,47.2218866,7.9518147
+1056,"Langnau bei Reiden, Lupfen",AVA,47.2219644,7.9517283
+1057,"Langnau bei Reiden, Feld",AVA,47.2349014,7.9610584
+1058,"Langnau bei Reiden, Feld",AVA,47.2351845,7.9611548
+1059,"Reiden, Kirche",AVA,47.2432817,7.9713183
+1060,"Reiden, Kirche",AVA,47.2435914,7.9713955
+1061,"Reiden, Sonne",AVA,47.2484070,7.9709216
+1062,"Reiden, Unterdorf",AVA,47.2518435,7.9699641
+1063,"Roggliswil, Post",AVA,47.2109129,7.8853091
+1064,"Pfaffnau, Brunnmatt",AVA,47.2338309,7.9091296
+1065,"Pfaffnau, Brunnmatt",AVA,47.2338134,7.9088369
+1066,"Pfaffnau, Dorfplatz",AVA,47.2288415,7.8994571
+1067,"Pfaffnau, Dorfplatz",AVA,47.2290065,7.8993167
+1068,"Reiden, Friedmattstrasse",AVA,47.2463883,7.9677734
+1069,"Reiden, Friedmattstrasse",AVA,47.2463807,7.9676711
+1070,"Altbüron, Halde",PAG,47.1834161,7.8763594
+1071,"Altbüron, Halde",PAG,47.1836360,7.8762668
+1072,"Altbüron, Feld",PAG,47.1876669,7.8708187
+1073,"Altbüron, Feld",PAG,47.1874443,7.8709063
+1074,"Altbüron, Gruenbach",PAG,47.1949652,7.8622443
+1075,"Altbüron, Gruenbach",PAG,47.1937271,7.8629273
+1076,"Altbüron, Ludligen",PAG,47.2014231,7.8611690
+1077,"Altbüron, Ludligen",PAG,47.2010402,7.8613821
+1078,"St. Urban, Unterberghof",PAG,47.2047795,7.8574015
+1079,"St. Urban, Unterberghof",PAG,47.2051488,7.8573020
+1080,"St. Urban, Chlisonnhalde",PAG,47.2117380,7.8514417
+1081,"St. Urban, Chlisonnhalde",PAG,47.2112538,7.8517961
+1082,"St. Urban, Sonnhalden",AVA,47.2225709,7.8493488
+1083,"St. Urban, Sonnhalden",AVA,47.2227515,7.8492204
+1084,"St. Urban, Sonnhaldenhof",PAG,47.2183466,7.8468598
+1085,"St. Urban, Sonnhaldenhof",PAG,47.2185630,7.8468279
+1086,"St. Urban, Birchmatt",AVA,47.2271920,7.8405264
+1087,"Altbüron, Linden",AVA,47.1830934,7.8836852
+1088,"Meggen, Gottlieben",VBL,47.0551845,8.3913473
+1089,"Meggen, Gottlieben",VBL,47.0550402,8.3910454
+1090,"Kastanienbaum, Kreuzmatt",VBL,47.0124441,8.3346485
+1091,"Luzern, Rigistrasse",VBL,47.0587431,8.3303145
+1092,"Luzern, Steinhofstrasse",VBL,47.0451670,8.2960244
+1093,,VBL,47.0408526,8.2842084
+1094,,VBL,47.0396473,8.2878178
+1095,,VBL,47.0305509,8.2773219
+1096,"Ebikon, Mühlegg",VBL,47.0726411,8.3350109
+1097,"Ebikon, Sagenschulhaus",VBL,47.0773779,8.3376653
+1098,"Meggen, Lerchenbühl",VBL,47.0420889,8.3600770
+1099,"Meggen, Rosenhalde",VBL,47.0438364,8.3638364
+1100,"Meggen, Balm",VBL,47.0448097,8.3680211
+1101,"Root, Schlosshof",VBL,47.1182525,8.3924722
+1102,"Perlen, Haslirain",VBL,47.1070935,8.3551038
+1103,"Perlen, Dorf",VBL,47.1101611,8.3618438
+1104,"Buchrain, Dorf",Verkehrsbetriebe Luzern (VBL),47.0952144,8.3480315
+1105,"Ebikon, Halte",VBL,47.0869019,8.3443384
+1106,"Buchrain, Reussbrücke",VBL,47.1029355,8.3498419
+1107,"Buchrain, Eichmatt",VBL,47.0993034,8.3486544
+1108,"Buchrain, Ronstrasse",VBL,47.0917821,8.3523405
+1109,"St. Niklausen LU, Mättiwil",VBL,47.0218990,8.3359323
+1110,"Beromünster, Mooskapelle",AAGR,47.2043605,8.2006867
+1111,"Beromünster, Flugplatz",AAGR,47.1922914,8.2056638
+1112,"Neudorf, Post",AAGR,47.1802011,8.2092071
+1113,"Rothenburg, Süesstannen",AAGR,47.1173096,8.2467785
+1114,"Emmenbrücke, Bösfeld",AAGR,47.0885827,8.2729679
+1115,"Rothenburg, Wegscheiden",AAGR,47.1100674,8.2561970
+1116,"Rain, Rüti",AAGR,47.1269363,8.2514048
+1117,"Rothenburg, Mauritiusring",AAGR,47.1003988,8.2626846
+1118,"Buttisholz, Guglern",ARAG,47.1081087,8.0853598
+1119,"Buttisholz, Fürti",ARAG,47.1162943,8.1012110
+1120,"Nottwil, SPZ",ARAG,47.1417141,8.1294652
+1121,"Nottwil, Eymatt",ARAG,47.1385464,8.1301741
+1122,"Oberkirch LU, Dorf",ARAG,47.1559528,8.1152983
+1123,"Oberkirch LU, Schule",ARAG,47.1589368,8.1155932
+1124,"Willisau, Zopfmatt",PAG,47.1190839,7.9804618
+1125,"Willisau, Schlüsselacher",PAG,47.1197947,7.9833028
+1126,"Willisau, Leuenplatz",ARAG,47.1223459,7.9930015
+1127,"Ettiswil, Post",PAG,47.1479135,8.0182462
+1128,"Ettiswil, Post",PAG,47.1479099,8.0183078
+1129,"Ettiswil, Post",PAG,47.1479172,8.0181842
+1130,"Kottwil, Zuswil",ARAG,47.1542165,8.0336229
+1131,"Kottwil, Dorf",ARAG,47.1622045,8.0450115
+1132,"Kottwil, Seewagen",ARAG,47.1647599,8.0465410
+1133,"Mauensee, Dorf",ARAG,47.1677632,8.0661067
+1134,"Mauensee, Breiten",ARAG,47.1659601,8.0818885
+1135,Käppelimatt b. Willisau,PAG,47.1174037,7.9760479
+1136,"Ruswil, Sonnhöfli",ARAG,47.0853003,8.1202708
+1137,Rüediswil,ARAG,47.0884657,8.1132830
+1138,"Wolhusen, Ankenberg",ARAG,47.0668591,8.0700542
+1139,"Wolhusen, Kreisel",ARAG,47.0589008,8.0732332
+1140,Rüediswil,ARAG,47.0882597,8.1132914
+1141,"Ruswil, Freieck",ARAG,47.0803650,8.1140028
+1142,"Neuenkirch, Feldmatt",PAG,47.1055073,8.1990388
+1143,"Emmenbrücke, Lohrensäge",PAG,47.0820017,8.2531835
+1144,"Hellbühl, Unter Hellbühl",ARAG,47.0720136,8.2013789
+1145,"Emmenbrücke, Riffig",AAGR,47.0822714,8.2641164
+1146,"Grosswangen, Schutz",ARAG,47.1354181,8.0408838
+1147,"Grosswangen, Ed. Huber-Strasse",ARAG,47.1318008,8.0527170
+1148,"Grosswangen, Rot",ARAG,47.1234187,8.0661275
+1149,"Buttisholz, Allmend",ARAG,47.1163869,8.0814291
+1150,"Obernau, Oberrodel",PAG,47.0259740,8.2442401
+1151,"Obernau, Feldmatt",PAG,47.0281359,8.2483625
+1152,Holderkäppeli,PAG,47.0237075,8.2192906
+1153,"Eigenthal, Talboden",PAG,47.0067447,8.2194961
+1154,"Eigenthal, Hochwäldli",PAG,47.0171577,8.2081631
+1155,"Eigenthal, Eigenthalerhof",PAG,47.0098516,8.2100420
+1156,Holderkäppeli,PAG,47.0235434,8.2196836
+1157,"Obernau, Schiessstand Stalden",PAG,47.0186846,8.2360084
+1158,"Obernau, Schiessstand Stalden",PAG,47.0184606,8.2357402
+1159,"Malters, Hinter-Widenmatt",PAG,47.0320030,8.1742613
+1160,"Malters, Hinter-Widenmatt",PAG,47.0319313,8.1734741
+1161,"Malters, Schürmatt",PAG,47.0280546,8.1677409
+1162,"Malters, Schürmatt",PAG,47.0278425,8.1675102
+1163,"Malters, Mattgut",PAG,47.0256386,8.1622249
+1164,"Malters, Liebetsegg",PAG,47.0245002,8.1677596
+1165,"Schwarzenberg LU, Schlatt",PAG,47.0215907,8.1680285
+1166,"Schwarzenberg LU, Kappelen",PAG,47.0193950,8.1697874
+1167,"Schwarzenberg LU, Ennenmatt",PAG,47.0175899,8.1727273
+1168,"Schwarzenberg LU, Rössli",PAG,47.0140849,8.1738015
+1169,"Schwarzenberg LU, Fabrikli",PAG,47.0152696,8.1769770
+1170,"Schwarzenberg LU, Fabrikli",PAG,47.0155868,8.1773861
+1171,"Schwarzenberg LU, Lifelen",PAG,47.0158099,8.1898275
+1172,"Schwarzenberg LU, Lifelen",PAG,47.0159050,8.1895620
+1173,"Schachen LU, Industrie",ARAG,47.0413836,8.1326149
+1174,"Schachen LU, Dorf",ARAG,47.0369504,8.1426784
+1175,"Malters, Ennigen",ARAG,47.0360935,8.1513056
+1176,"Entlebuch, Drei Könige",PAG,46.9937346,8.0648687
+1177,"Entlebuch, Lehn",PAG,46.9991951,8.0693796
+1178,"Entlebuch, Rusacher",PAG,47.0012656,8.0703125
+1179,"Entlebuch, Schwand",PAG,47.0065092,8.0723052
+1180,"Entlebuch, Schwand",PAG,47.0065622,8.0725935
+1181,"Ebnet (Entlebuch), Bäckerei",PAG,47.0248786,8.0791480
+1182,"Wolhusen, Markt",PAG,47.0562458,8.0709064
+1183,"Wolhusen, Viadukt",PAG,47.0583628,8.0712389
+1184,"Hergiswil LU, Vordere Säge",PAG,47.0833700,7.9563210
+1185,"Hergiswil LU, Untere Schmiede",PAG,47.0882983,7.9600271
+1186,"Willisau, Feldmatt-Kapelle",PAG,47.1022697,7.9631897
+1187,"Willisau, Breiten",PAG,47.1057390,7.9637252
+1188,"Willisau, Feld",PAG,47.1115435,7.9712942
+1189,"Willisau, Zehntenplatz",PAG,47.1193870,7.9883292
+1190,"Schötz, Neubühl",PAG,47.1775560,7.9856470
+1191,"Schötz, Neubühl",PAG,47.1765560,7.9862666
+1192,"Schötz, St. Mauritz",PAG,47.1712146,7.9888616
+1193,"Schötz, St. Mauritz",PAG,47.1720744,7.9887477
+1194,"Schötz, Moosbrücke",PAG,47.1668518,7.9945340
+1195,"Nebikon, Käserei",PAG,47.1878907,7.9756133
+1196,"Nebikon, Maschinenfabrik",PAG,47.1833275,7.9804300
+1197,"Altishofen, Bäckerei",PAG,47.1958161,7.9685645
+1198,"Altishofen, Kreisel",PAG,47.2002614,7.9724708
+1199,"Alberswil, Dorf",PAG,47.1506784,8.0019495
+1200,"Ebersecken, Badachtal",PAG,47.1783035,7.9487438
+1201,"Ettiswil, Hinterdorf",PAG,47.1499133,8.0129992
+1202,"Grossdietwil, Schönegg",PAG,47.1693985,7.8894094
+1203,"Grossdietwil, Schönegg",PAG,47.1693794,7.8892685
+1204,"Triengen, Gisler",PAG,47.2397716,8.0724352
+1205,"Ebikon, Bahnhof",VBL,47.0845725,8.3428525
+1206,"Ebikon, Bahnhof",VBL,47.0847241,8.3430803
+1207,"Ebikon, Bahnhof",VBL,47.0848767,8.3433095
+1208,"Ebikon, Bahnhof",VBL,47.0845229,8.3431412
+1209,"Sörenberg, Platz",PAG,46.8175687,8.0414123
+1210,"Schongau, Mettmen",ZVB,47.2683799,8.2653498
+1211,"Aesch LU, Berg",ZVB,47.2608763,8.2443238
+1212,"Hitzkirch, Schulhaus",ZVB,47.2262198,8.2617763
+1213,"Hitzkirch, Dorf",ZVB,47.2247853,8.2611669
+1214,"Hitzkirch, Friedhof",ZVB,47.2236596,8.2582909
+1215,"Hitzkirch, Bleulikon",ZVB,47.2292880,8.2617295
+1216,"Hämikon, Stockmatt",ZVB,47.2321402,8.2748508
+1217,"Hohenrain, Oberebersol",ZVB,47.1725898,8.3215781
+1218,"Hohenrain, Kreuz",ZVB,47.1793946,8.3155398
+1219,"Hohenrain, Landschau",ZVB,47.1807829,8.3147158
+1220,"Hohenrain, Günikon",ZVB,47.1848604,8.3140907
+1221,"Römerswil LU, Rehag",ZVB,47.1581132,8.2733356
+1222,"Römerswil LU, Gehren",ZVB,47.1594123,8.2639897
+1223,"Römerswil LU, Gosperdingen",ZVB,47.1571944,8.2618926
+1224,"Römerswil LU, Williswil",ZVB,47.1550333,8.2515067
+1225,"Römerswil LU, Mur",ZVB,47.1611552,8.2513596
+1226,"Römerswil LU, Ludigen",ZVB,47.1796871,8.2416447
+1227,"Herlisberg, Oberreinach",ZVB,47.1887830,8.2362707
+1228,"Herlisberg, Dorfplatz",ZVB,47.1975985,8.2306563
+1229,"Beromünster, Witwil",ZVB,47.2094711,8.2100165
+1230,"Beromünster, Witwil",ZVB,47.2095294,8.2097483
+1231,"Hochdorf, Sempachstrasse",ZVB,47.1655276,8.2893464
+1232,"Doppleschwand, Spittel",PAG,47.0226131,8.0561936
+1233,"Wolhusen, Neuemsern-Rossei",PAG,47.0421482,8.0697514
+1234,"Finsterwald LU, Rotbach",PAG,46.9125834,8.1141157
+1235,"Finsterwald LU, Gründli",PAG,46.9310997,8.1248032
+1236,"Hasle LU, Farbschachen",PAG,46.9844981,8.0601016
+1237,"Schüpfheim, Biberebrüggli",PAG,46.9586244,8.0443460
+1238,"Hasle LU, Ussercher",PAG,46.9812786,8.0572186
+1239,"Hasle LU, Heiligkreuz Kirche",PAG,46.9495083,8.0491452
+1240,"Menznau, Obertreien",PAG,47.0684163,8.0354576
+1241,"Wiggen, Egghus",PAG,46.8953280,7.9088527
+1242,"Sörenberg, Hirsegg",PAG,46.8384585,8.0123671
+1243,"Ebikon, Schachenweid",VBL,47.0745793,8.3292023
+1244,"Ebikon, Schmiedhof",VBL,47.0767998,8.3329526
+1245,"Ebikon, Hünenberg",VBL,47.0712684,8.3232896
+1246,,VBL,47.0372128,8.2926555
+1247,"Flühli LU, Schintmoos",PAG,46.8995255,8.0131212
+1248,"Sörenberg, Mittlere Hirsegg",PAG,46.8465446,8.0126831
+1249,"Flühli LU, Golfplatz",PAG,46.8667164,8.0180676
+1250,"Flühli LU, Golfplatz",PAG,46.8669756,8.0182211
+1251,"Flühli LU, Hochwald",PAG,46.8715661,8.0165631
+1252,"Flühli LU, Hochwald",PAG,46.8714308,8.0164699
+1253,"Flühli LU, Krutacher",PAG,46.9081873,8.0155019
+1254,"Flühli LU, Usser-Lamm",PAG,46.9158587,8.0130080
+1255,"Sörenberg, Skilift Rischli",PAG,46.8294623,8.0167245
+1256,"Sörenberg, Camping",PAG,46.8257591,8.0254537
+1257,"Sörenberg, Habchegg",PAG,46.8110707,8.0570409
+1258,"Sörenberg, Flühhütten",PAG,46.8167126,8.0453984
+1259,"Sörenberg, Flühhütten",PAG,46.8166347,8.0456429
+1260,"Schüpfheim, Badhus",PAG,46.9405460,8.0068820
+1261,"Sörenberg, Südelhöchi",PAG,46.8334447,8.0133441
+1262,"Flühli LU, Torbach",PAG,46.8798114,8.0165927
+1263,"Sörenberg, Schulhaus",PAG,46.8234757,8.0306147
+1264,"Sörenberg, Höchistrasse",PAG,46.8193103,8.0375910
+1265,"Sörenberg, Höchistrasse",PAG,46.8194609,8.0374173
+1266,,,46.9295181,7.9685297
+1267,,VBL,47.0548325,8.3119410
+1268,"Luzern, Brüelstrasse",VBL,47.0541079,8.3398294
+1269,,VBL,47.0699202,8.3282965
+1270,,Auto AG Rothenburg (AAGR),47.0766301,8.2717945
+1271,,Verkehrsbetriebe Luzern AG (VBL),47.0758323,8.2760326
+1272,,Verkehrsbetriebe Luzern AG (VBL),47.0754343,8.2760743
+1273,,Auto AG Rothenburg (AAGR),47.0708569,8.2835823
+1274,,Auto AG Rothenburg (AAGR),47.0710923,8.2854003
+1275,,Auto AG Rothenburg (AAGR),47.0705549,8.2821969
+1276,,Auto AG Rothenburg (AAGR),47.0708792,8.2819060
+1277,,Auto AG Rothenburg (AAGR),47.0753952,8.2952498
+1278,,Auto AG Rothenburg (AAGR),47.0770978,8.3005214
+1279,,Auto AG Rothenburg (AAGR),47.0753766,8.2943745
+1280,,Auto AG Rothenburg (AAGR),47.0789081,8.3031362
+1281,,Auto AG Rothenburg (AAGR),47.0769722,8.3006337
+1282,,Auto AG Rothenburg (AAGR),47.0763145,8.2657839
+1283,,Auto AG Rothenburg (AAGR),47.0777865,8.2757568
+1284,,Auto AG Rothenburg (AAGR),47.0775940,8.2755253
+1285,,Auto AG Rothenburg (AAGR),47.0779428,8.2688639
+1286,,Auto AG Rothenburg (AAGR),47.0769726,8.2754960
+1287,,Auto AG Rothenburg (AAGR),47.0745329,8.2658358
+1288,,Auto AG Rothenburg (AAGR),47.0768615,8.2751941
+1289,,Auto AG Rothenburg (AAGR),47.0760840,8.2655536
+1290,,Auto AG Rothenburg (AAGR),47.0753032,8.2642794
+1291,,Auto AG Rothenburg (AAGR),47.0781028,8.2689518
+1292,,Auto AG Rothenburg (AAGR),47.0750192,8.2636530
+1293,,Auto AG Rothenburg (AAGR),47.0729351,8.2597029
+1294,,Auto AG Rothenburg (AAGR),47.0728827,8.2591388
+1295,,Auto AG Rothenburg (AAGR),47.0761067,8.2687096
+1296,,Auto AG Rothenburg (AAGR),47.0739611,8.2552142
+1297,,Auto AG Rothenburg (AAGR),47.0745719,8.2661421
+1298,,(AAGR),47.0721070,8.2573162
+1299,,Auto AG Rothenburg (AAGR),47.0720459,8.2560412
+1300,,Auto AG Rothenburg (AAGR),47.0707657,8.2919245
+1301,,Auto AG Rothenburg (AAGR),47.0709738,8.2917467
+1302,"Emmenbrücke, Zentrum Gersag",Emmer Busbetriebe AG (EEB),47.0789568,8.2783318
+1303,,Verkehrsbetriebe Luzern AG (VBL),47.0120160,8.3082719
+1304,,Verkehrsbetriebe Luzern AG (VBL),47.0123102,8.3087968
+1305,,Verkehrsbetriebe Luzern AG (VBL),47.0272500,8.3052130
+1306,,Verkehrsbetriebe Luzern AG (VBL),47.0266351,8.3051779
+1307,,VBL,47.0113091,8.3386975
+1308,,VBL,47.0144444,8.3379146
+1309,,VBL,47.0140746,8.3378680
+1310,,VBL,47.0116087,8.3386816
+1311,"Inwil, Körbligen",ZVB,47.1338445,8.3963387
+1312,"Luzern, Bahnhof",VBL,47.0504382,8.3107328
+1313,,VBL,47.0294877,8.2922958
+1314,,VBL,47.0208534,8.3000656
+1315,"Kriens, Dattenmatt",VBL,47.0208794,8.3001855
+1316,,VBL,47.0324785,8.2817967
+1317,,VBL,47.0428365,8.3507735
+1318,,VBL,47.0451361,8.3473406
+1319,,VBL,47.0469791,8.3436617
+1320,,VBL,47.0475530,8.3430187
+1321,,VBL,47.0505157,8.3456087
+1322,,VBL,47.0528822,8.3389994
+1323,,VBL,47.0531056,8.3390070
+1324,,,47.0562708,8.3432953
+1325,,,47.0561568,8.3433541
+1326,,VBL,47.0564697,8.3393118
+1327,,VBL,47.0563679,8.3391117
+1328,,VBL,47.0575867,8.3349374
+1329,,VBL,47.0577873,8.3347477
+1330,,VBL,47.0585981,8.3243816
+1331,,VBL,47.0591669,8.3219891
+1332,,VBL,47.0593409,8.3222758
+1333,,VBL,47.0578239,8.3175195
+1334,,VBL,47.0579375,8.3180967
+1335,,VBL,47.0490963,8.3000117
+1336,,VBL,47.0471267,8.2969806
+1337,,VBL,47.0469825,8.2944741
+1338,,VBL,47.0470249,8.2946592
+1339,,VBL,47.0453625,8.2954814
+1340,,VBL,47.0454262,8.2955905
+1341,,VBL,47.0442952,8.2975314
+1342,,VBL,47.0444650,8.2972801
+1343,,VBL,47.0409251,8.2938937
+1344,,VBL,47.0388347,8.2855504
+1345,,VBL,47.0376549,8.2802341
+1346,,VBL,47.0350436,8.2795510
+1347,,VBL,47.0341261,8.2821498
+1348,,VBL,47.0340432,8.2830353
+1349,,VBL,47.0328866,8.2836958
+1350,,VBL,47.0541213,8.2863387
+1351,,VBL,47.0527291,8.2827116
+1352,,VBL,47.0526524,8.2817500
+1353,,VBL,47.0518328,8.2777998
+1354,,VBL,47.0519358,8.2767810
+1355,,VBL,47.0515097,8.2747690
+1356,,VBL,47.0514663,8.2738108
+1357,,VBL,47.0508579,8.2715109
+1358,,VBL,47.0508738,8.2708477
+1359,,VBL,47.0501751,8.2671818
+1360,,VBL,47.0494224,8.2635736
+1361,,VBL,47.0493251,8.2620046
+1362,,VBL,47.0490032,8.2608474
+1363,,VBL,47.0493117,8.2600470
+1364,,VBL,47.0508417,8.2585138
+1365,,VBL,47.0530300,8.2573059
+1366,,AAGR,47.0560594,8.2574567
+1367,,AAGR,47.0554254,8.2563442
+1368,,VBL,47.0472568,8.2970514
+1369,,VBL,47.0572515,8.3140164
+1370,,SBB,47.2349705,8.0733264
+1371,,VBL,47.0418695,8.2994490
+1372,,Auto AG Rothenburg (AAGR),47.0766876,8.2711335
+1373,,VBL,47.0291366,8.2762379
+1374,,VBL,47.0397084,8.2737880
+1375,,VBL,47.0404218,8.2774142
+1376,,VBL,47.0370470,8.2678796
+1377,,VBL,47.0408787,8.2803669
+1378,,VBL,47.0377242,8.2700847
+1379,,VBL,47.0350502,8.2666964
+1380,,VBL,47.0309987,8.2725956
+1381,,VBL,47.0344616,8.2858518
+1382,,VBL,47.0344070,8.2867090
+1383,,PAG,47.0352311,8.2891723
+1384,,PAG,47.0351454,8.2893759
+1385,,VBL,47.0299461,8.2738722
+1386,,VBL,47.0335385,8.2728262
+1387,,VBL,47.0330029,8.2689185
+1388,,VBL,47.0314509,8.2699756
+1389,,VBL,47.0312267,8.2774647
+1390,,VBL,47.0226032,8.3032064
+1391,,VBL,47.0386028,8.2757079
+1392,,VBL,47.0240718,8.3021045
+1393,,VBL,47.0234829,8.2886691
+1394,,VBL,47.0386097,8.2830705
+1395,,VBL,47.0317755,8.3035987
+1396,,VBL,47.0313278,8.3035103
+1397,,VBL,47.0536422,8.3840255
+1398,,VBL,47.0538614,8.2858663
+1399,,VBL,47.0587539,8.2922415
+1400,,PAG,47.0221519,8.2356294
+1401,,PAG,47.0220633,8.2355878
+1402,,VBL,47.0346011,8.3278168
+1403,,VBL,47.0342219,8.3279639
+1404,,VBL,47.0332222,8.3271849
+1405,,VBL,47.0559853,8.2694016
+1406,,VBL,47.0561119,8.2697342
+1407,,VBL,47.0602494,8.2703667
+1408,,VBL,47.0605283,8.2705237
+1409,,PAG,47.0345901,8.1785398
+1410,,PAG,47.0342295,8.1777727
+1411,,VBL,47.0419094,8.2990905
+1412,,VBL,47.0428233,8.3504998
+1413,,VBL,47.0452346,8.3464528
+1414,,VBL,47.0586688,8.3273139
+1415,,VBL,47.0321229,8.3353431
+1416,,VBL,47.0332905,8.3338672
+1417,,VBL,47.0296169,8.3363901
+1418,,VBL,47.0301913,8.3363291
+1419,,VBL,47.0248265,8.3334908
+1420,,AAGR,47.0666381,8.2692445
+1421,,AAGR,47.0662140,8.2684605
+1422,,VBL,47.0504445,8.3456515
+1423,,VBL,47.0251822,8.2864595
+1424,,VBL,47.0287174,8.2841771
+1425,,VBL,47.0319629,8.2841768
+1426,,VBL,47.0370921,8.2931037
+1427,,VBL,47.0342633,8.2763636
+1428,,PAG,47.0312096,8.2521979
+1429,,,47.0614083,8.2799127
+1430,"Neuenkirch, Weierhüsli",PAG,47.0926288,8.2213378
+1431,,VBL,47.0621197,8.3158930
+1432,,VBL,47.0585737,8.3276253
+1433,,VBL,47.0371300,8.3275760
+1434,,VBL,47.0383121,8.3124177
+1435,,VBL,47.0512528,8.3482868
+1436,,VBL,47.0336729,8.2961627
+1437,,VBL,47.0245797,8.3336157
+1438,,VBL,47.0594802,8.3526293
+1439,,VBL,47.0672415,8.3147234
+1440,,VBL,47.0272914,8.2989645
+1441,,VBL,47.0274568,8.2990666
+1442,,VBL,47.0300793,8.2898444
+1443,,VBL,47.0338102,8.2798552
+1444,,VBL,47.0338785,8.2790521
+1445,,VBL,47.0335967,8.2795543
+1446,,VBL,47.0316791,8.2855697
+1447,,VBL,47.0314094,8.2859577
+1448,,VBL,47.0304300,8.2889385
+1449,,VBL,47.0330544,8.2959269
+1450,,PAG,47.0400658,8.3018161
+1451,,PAG,47.0397530,8.3017569
+1452,,VBL,47.0402155,8.3010329
+1453,,VBL,47.0402065,8.3014266
+1454,,VBL,47.0240107,8.2954485
+1455,,VBL,47.0247852,8.2964951
+1456,"Kriens, Grabenhof",VBL,47.0239524,8.2955264
+1457,,VBL,47.0222203,8.2948966
+1458,,VBL,47.0215188,8.2950164
+1459,,VBL,47.0181966,8.2993557
+1460,,VBL,47.0179516,8.3004694
+1461,,Verkehrsbetriebe Luzern AG (VBL),47.0177918,8.3033007
+1462,,VBL,47.0185606,8.3036784
+1463,,VBL,47.0257445,8.2991708
+1464,,VBL,47.0256025,8.2993945
+1465,,VBL,47.0386675,8.2977840
+1466,,VBL,47.0462560,8.3042836
+1467,,VBL,47.0672180,8.3144230
+1468,,VBL,47.0672859,8.3148592
+1469,,VBL,47.0656068,8.3117677
+1470,,VBL,47.0656115,8.3120481
+1471,,VBL,47.0578827,8.2983503
+1472,,VBL,47.0598585,8.3028051
+1473,,VBL,47.0597073,8.3024115
+1474,,VBL,47.0605592,8.3052728
+1475,,VBL,47.0606392,8.3051150
+1476,,VBL,47.0616563,8.3080956
+1477,,VBL,47.0611597,8.3087139
+1478,,VBL,47.0618915,8.3092486
+1479,,VBL,47.0630608,8.3098526
+1480,,VBL,47.0635872,8.3104046
+1481,,VBL,47.0579661,8.2891851
+1482,,VBL,47.0579792,8.2889157
+1483,,VBL,47.0562600,8.2926473
+1484,,VBL,47.0562382,8.2930479
+1485,,VBL,47.0568814,8.2996759
+1486,,VBL,47.0568453,8.2998535
+1487,,VBL,47.0551655,8.2994937
+1488,,VBL,47.0552293,8.2993377
+1489,,VBL,47.0561191,8.3046767
+1490,,VBL,47.0570653,8.3029726
+1491,,VBL,47.0572050,8.3030269
+1492,,VBL,47.0538140,8.2994368
+1493,,VBL,47.0522906,8.2965551
+1494,,VBL,47.0528163,8.2960140
+1495,,VBL,47.0541448,8.2903318
+1496,,VBL,47.0542496,8.2901375
+1497,,VBL,47.0447620,8.2897695
+1498,,VBL,47.0447732,8.2896216
+1499,,VBL,47.0460081,8.2888038
+1500,,VBL,47.0466286,8.2899958
+1501,,VBL,47.0465747,8.2901931
+1502,,PAG,47.0310398,8.2521961
+1503,,PAG,47.0310756,8.2517248
+1504,,VBL,47.0339752,8.2730902
+1505,,VBL,47.0341442,8.2734654
+1506,,VBL,47.0338327,8.2702319
+1507,,VBL,47.0339916,8.2706925
+1508,,VBL,47.0352399,8.2591372
+1509,,VBL,47.0351349,8.2600637
+1510,,PAG,47.0341818,8.2553510
+1511,,PAG,47.0342885,8.2554552
+1512,,VBL,47.0252008,8.2865549
+1513,,VBL,47.0272309,8.2850248
+1514,,VBL,47.0272496,8.2851299
+1515,,VBL,47.0307524,8.2835617
+1516,,VBL,47.0309454,8.2832551
+1517,"Kriens, Mattenhof",VBL,47.0268602,8.3020040
+1518,,Auto AG Rothenburg (AAGR),47.0807239,8.2717385
+1519,,VBL,47.0507952,8.2586338
+1520,,,47.0613559,8.2803945
+1521,,VBL,47.0531949,8.3539933
+1522,,VBL,47.0488242,8.2995872
+1523,Stächenrain,ARAG,47.0768768,8.2241780
+1524,,PAG,47.0983246,8.2057239
+1525,,PAG,47.1110932,8.1944659
+1526,,PAG,47.1031359,8.2016605
+1527,,PAG,47.1030245,8.2015495
+1528,,PAG,47.0982744,8.2055598
+1529,,PAG,47.1113061,8.1946258
+1530,"Neuenkirch, Kirche",PAG,47.1004333,8.2029112
+1531,,PAG,47.1063120,8.1971899
+1532,"St. Erhard, Galerie",PAG,47.1871975,8.0770211
+1533,"St. Erhard, Galerie",PAG,47.1870873,8.0768536
+1534,"Dagmersellen, Bahnhof",PAG,47.2184730,7.9795320
+1535,"Dagmersellen, Löwen",PAG,47.2134831,7.9883109
+1536,"Dagmersellen, Löwen",PAG,47.2133427,7.9883251
+1537,"Hochdorf, Industriestrasse",ZVB,47.1640416,8.2814158
+1538,,Auto AG Rothenburg (AAGR),47.0727517,8.2877283
+1539,,Auto AG Rothenburg (AAGR),47.0727273,8.2902810
+1540,,Auto AG Rothenburg (AAGR),47.0730029,8.2903440
+1541,"Meggen, Englischer Friedhof",VBL,47.0513270,8.3536510
+1542,"Rothenburg Station, Bhf. West",PAG,47.0886832,8.2483672
+1543,"Rothenburg Station, Bhf. West",AAGR,47.0883915,8.2488773
+1544,"Ruswil, Moos",ARAG,47.0739683,8.1469413
+1545,"Ruswil, Moos",ARAG,47.0734154,8.1478084
+1546,"Ruswil, Schlatt",ARAG,47.0713215,8.1560849
+1547,"Ruswil, Schlatt",ARAG,47.0709799,8.1568401
+1548,"Ruswil, Ziswil",ARAG,47.0680613,8.1680407
+1549,"Ruswil, Ziswil",ARAG,47.0679067,8.1681092
+1550,"Hellbühl, Mittler Büel",ARAG,47.0662904,8.1847826
+1551,"Hellbühl, Mittler Büel",ARAG,47.0662002,8.1855066
+1552,"Hellbühl, Post",ARAG,47.0703480,8.1964931
+1553,"Hellbühl, Unter Hellbühl",ARAG,47.0719337,8.2014304
+1554,"Hellbühl, Moosschür",ARAG,47.0751777,8.2084423
+1555,"Hellbühl, Moosschür",ARAG,47.0751306,8.2086394
+1556,Stächenrain,ARAG,47.0768061,8.2241948
+1557,Stächenrain,ARAG,47.0767172,8.2241091
+1558,"Hildisrieden, Hapfern",AAGR,47.1334794,8.2412937
+1559,"Hildisrieden, Hapfern",AAGR,47.1332157,8.2412157
+1560,"Neuenkirch, Weierhüsli",PAG,47.0924145,8.2214454
+1561,"Hildisrieden, Post",AAGR,47.1489230,8.2290895
+1562,"Hildisrieden, Post",AAGR,47.1490337,8.2293555
+1563,"Hildisrieden, Waldmatt",AAGR,47.1518209,8.2265124
+1564,"Hildisrieden, Dorf",AAGR,47.1513130,8.2282340
+1565,"Römerswil LU, Dorf",ZVB,47.1688886,8.2453885
+1566,"Römerswil LU, Dorf",ZVB,47.1684042,8.2460581
+1567,"Römerswil LU, Chäppeliacher",ZVB,47.1670349,8.2474989
+1568,"Römerswil LU, Chäppeliacher",ZVB,47.1667529,8.2476802
+1569,,Auto AG Rothenburg (AAGR),47.0761560,8.2686378
+1570,,VBL,47.0542673,8.2908604
+1571,"Emmen, Allmendli",Auto AG Rothenburg (AAGR),47.0833597,8.3089010
+1572,"Emmen, Emmenfeld",AAGR,47.0806538,8.2987428
+1573,"Emmen, Unterspitalhof",AAGR,47.0809091,8.3063139
+1574,"Emmenbrücke, Geisselermoos",PAG,47.0893694,8.2271586
+1575,"Neuenkirch, Lippenrüti",PAG,47.1112941,8.1945043
+1576,"Neuenkirch, Kirche",PAG,47.1004440,8.2027963
+1577,"Neuenkirch, Post",PAG,47.0983046,8.2056604
+1578,"Sempach Stadt, Hültschern",PAG,47.1335676,8.1954045
+1579,"Meggen, Buchmatt",VBL,47.0509846,8.3578760
+1580,"Hochdorf, Bahnhof",,47.1667312,8.2886078
